@@ -43,9 +43,9 @@
         }
     ],
     "persona": {
-        "role": "Chef"
+        "role": "chef"
     },
     "job_to_be_done": {
-        "task": "Prepare a chicken dinner menu"
+        "task": "prepare a dinner menu"
     }
 }

@@ -19,8 +19,29 @@ except LookupError:
 class JSONSearchProcessor:
     def __init__(self, json_folder: str = None):
         self.json_folder = json_folder or os.environ.get('JSON_FOLDER', 'collections1')
-        # Load the model from the local directory for offline use
-        self.model = SentenceTransformer("models/BAAI/bge-small-en")
+        # Load the model with offline mode support
+        try:
+            # Set environment variables for offline mode
+            os.environ['HF_HUB_OFFLINE'] = '1'
+            os.environ['TRANSFORMERS_OFFLINE'] = '1'
+            
+            # Try to load from cache (offline mode)
+            self.model = SentenceTransformer("BAAI/bge-small-en")
+        except Exception as e:
+            print(f"Failed to load cached model in offline mode: {e}")
+            try:
+                # Clear offline environment variables and try online
+                if 'HF_HUB_OFFLINE' in os.environ:
+                    del os.environ['HF_HUB_OFFLINE']
+                if 'TRANSFORMERS_OFFLINE' in os.environ:
+                    del os.environ['TRANSFORMERS_OFFLINE']
+                    
+                # Fallback to online download
+                self.model = SentenceTransformer("BAAI/bge-small-en")
+            except Exception as e2:
+                print(f"Failed to load model online: {e2}")
+                raise RuntimeError("Could not load sentence transformer model. Please ensure the model is cached or internet connection is available.")
+        
         self.documents = {}
         self.chunk_size = 400
         

@@ -57,23 +57,44 @@ Relevant sections are ranked based on a weighted combination of keyword and sema
 
 ## Dockerfile and Execution Instructions
 
-The `Dockerfile` sets up a Python 3.11 environment, installs all required system and Python dependencies, downloads NLTK data, and copies the application code. The entrypoint is set to allow flexible execution of either the section extraction or search processor scripts.
+The `Dockerfile` sets up a Python 3.11 environment with all required dependencies:
+
+1. **System Dependencies**: Installs build tools (gcc, g++, cmake) required for compiling Python packages
+2. **Python Dependencies**: Installs PyTorch CPU version and all requirements from `requirements.txt`
+3. **NLTK Data**: Downloads required punkt tokenizer data during build
+4. **Model Pre-download**: Downloads and caches the BAAI/bge-small-en sentence transformer model during build to enable offline operation
+5. **Offline Configuration**: Sets environment variables to force offline mode, preventing network calls during execution
+6. **Wrapper Script**: Includes `run_all.sh` script that automatically runs both processing steps sequentially
 
 **Build the Docker image:**
 ```sh
 docker build -t pdf-processor .
 ```
 
-**Run section extraction (creates JSON files from PDFs):**
+**Run both scripts sequentially (recommended approach):**
 ```sh
-docker run --rm -it -v "${PWD}:/app" pdf-processor create_json_sections.py
+# Process a specific collection (e.g., collections2)
+docker run --rm -it -v "${PWD}:/app" pdf-processor collections2
+# Replace collection2 with the required collection name
 ```
 
-**Run the search processor (generates input.json and output.json):**
-```sh
-docker run --rm -it -v "${PWD}:/app" pdf-processor json_search_processor.py collections1
-```
-Replace `collections1` with your target folder as needed.
+The wrapper script automatically:
+1. Runs `create_json_sections.py` to extract sections from PDFs and create JSON files
+2. If successful, runs `json_search_processor.py` to generate input.json and output.json
+3. Provides clear status updates and error handling
 
-**Note:** Always use the `-v` flag to mount your working directory, ensuring output files are accessible on your host system.
+**Run individual scripts (if needed):**
+```sh
+# Run only section extraction
+docker run --rm -it -v "${PWD}:/app" --entrypoint python pdf-processor create_json_sections.py collections2
+
+# Run only search processor (requires JSON files to exist)
+docker run --rm -it -v "${PWD}:/app" --entrypoint python pdf-processor json_search_processor.py collections2
+```
+
+**Important Notes:**
+- Always use the `-v "${PWD}:/app"` flag to mount your working directory, ensuring output files are accessible on your host system
+- The model is pre-downloaded during Docker build, so no internet connection is required during execution
+- The container runs in offline mode by default to ensure consistent behavior across environments
+- Replace `collections2` with your target collection folder name as needed
 

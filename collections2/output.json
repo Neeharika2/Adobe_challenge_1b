@@ -11,63 +11,45 @@
             "Dinner Ideas - Sides_4.pdf",
             "Lunch Ideas.pdf"
         ],
-        "persona": "Chef",
-        "job_to_be_done": "Prepare a chicken dinner menu",
-        "processing_timestamp": "2025-07-28T16:16:30.486307",
+        "persona": "chef",
+        "job_to_be_done": "prepare a dinner menu",
+        "processing_timestamp": "2025-07-28T17:39:19.498343",
         "total_sections_analyzed": 536,
         "relevant_sections_found": 10
     },
     "extracted_sections": [
         {
-            "document": "Dinner Ideas - Mains_2.pdf",
-            "section_title": "Roast Chicken",
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Prepare each side",
             "importance_rank": 1,
-            "page_number": 6
-        },
-        {
-            "document": "Lunch Ideas.pdf",
-            "section_title": "Chicken Caesar Wrap",
-            "importance_rank": 2,
             "page_number": 5
         },
         {
             "document": "Dinner Ideas - Sides_3.pdf",
-            "section_title": "Saute ground chicken",
-            "importance_rank": 3,
-            "page_number": 7
+            "section_title": "Macaroni and Cheese",
+            "importance_rank": 2,
+            "page_number": 8
         },
         {
-            "document": "Dinner Ideas - Sides_1.pdf",
-            "section_title": "Prepare each side",
-            "importance_rank": 4,
-            "page_number": 5
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Mix flour milk beaten",
+            "importance_rank": 3,
+            "page_number": 4
         },
         {
             "document": "Dinner Ideas - Sides_4.pdf",
-            "section_title": "Cut chicken into",
+            "section_title": "Grate potatoes and",
+            "importance_rank": 4,
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Mix grated cassava",
             "importance_rank": 5,
-            "page_number": 13
+            "page_number": 5
         }
     ],
     "subsection_analysis": [
-        {
-            "document": "Dinner Ideas - Mains_2.pdf",
-            "section_title": "Roast Chicken",
-            "refined_text": "*\nPreheat grill to medium-high heat. *\nGrill chicken, brushing with marinade, until cooked through. *\nGarnish with sliced green onions and serve.",
-            "page_number": 6
-        },
-        {
-            "document": "Lunch Ideas.pdf",
-            "section_title": "Chicken Caesar Wrap",
-            "refined_text": "Chicken and Avocado Salad\nIngredients:",
-            "page_number": 5
-        },
-        {
-            "document": "Dinner Ideas - Sides_3.pdf",
-            "section_title": "Saute ground chicken",
-            "refined_text": "Instructions\n:\no\nSaute ground chicken, diced onion, and minced garlic until cooked. o\nMix fish sauce, lime juice, sugar, and rice powder in a bowl. o\nToss chicken with the dressing, chopped mint, cilantro, and sliced chilies. o\nServe with lettuce leaves. Lo Mein\n*",
-            "page_number": 7
-        },
         {
             "document": "Dinner Ideas - Sides_1.pdf",
             "section_title": "Prepare each side",
@@ -75,10 +57,28 @@
             "page_number": 5
         },
         {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Macaroni and Cheese",
+            "refined_text": "Macaroni and Cheese\n*",
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Mix flour milk beaten",
+            "refined_text": "o\nServe warm. Kartoffelsalat (Potato Salad)\n*",
+            "page_number": 4
+        },
+        {
             "document": "Dinner Ideas - Sides_4.pdf",
-            "section_title": "Cut chicken into",
-            "refined_text": "Instructions\n:\no\nCut chicken into strips and thread onto skewers. o\nMix coconut milk, soy sauce, peanut butter, curry powder, and brown sugar in a\nbowl. o\nMarinate chicken in the mixture for at least 1 hour. o\nGrill or broil until cooked through. o\nServe with peanut sauce.",
-            "page_number": 13
+            "section_title": "Grate potatoes and",
+            "refined_text": "Ingredients\n:\no\n1 head red cabbage\no\n1 small onion\no\n1 apple",
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Mix grated cassava",
+            "refined_text": "Ingredients\n:\no\nAssorted small side dishes like pickled radish, spinach, bean sprouts, kimchi\n*",
+            "page_number": 5
         }
     ]
 }

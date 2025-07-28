@@ -426,35 +426,48 @@ def create_json_files_for_collection(collection_path):
                 print(f"Created: {json_filename} with {len(sections)} sections")
 
 def main():
-    # Automatically find all collections* folders in the current working directory
-    base_dir = os.getcwd()
-    collections_folders = [
-        name for name in os.listdir(base_dir)
-        if os.path.isdir(os.path.join(base_dir, name)) and name.startswith("collections")
-    ]
+    import sys
     
-    if not collections_folders:
-        print("No collections folders found.")
-        return
-
-    print("Available collections:")
-    for idx, folder in enumerate(collections_folders, 1):
-        print(f"{idx}. {folder}")
-
-    selected = input("Enter the collection name to process (or leave blank to process all): ").strip()
-
-    if selected and selected in collections_folders:
-        folders_to_process = [selected]
-    elif selected:
-        print(f"Collection '{selected}' not found. Exiting.")
-        return
+    if len(sys.argv) > 1:
+        collection_name = sys.argv[1]
+        # Process the specified collection
+        collection_path = os.path.join(os.getcwd(), collection_name)
+        if os.path.exists(collection_path):
+            print(f"Processing {collection_name}...")
+            create_json_files_for_collection(collection_path)
+        else:
+            print(f"Collection folder '{collection_name}' not found.")
+            return
     else:
-        folders_to_process = collections_folders
+        # Automatically find all collections* folders in the current working directory
+        base_dir = os.getcwd()
+        collections_folders = [
+            name for name in os.listdir(base_dir)
+            if os.path.isdir(os.path.join(base_dir, name)) and name.startswith("collections")
+        ]
+        
+        if not collections_folders:
+            print("No collections folders found.")
+            return
 
-    for folder in folders_to_process:
-        folder_path = os.path.join(base_dir, folder)
-        print(f"\nProcessing {folder}...")
-        create_json_files_for_collection(folder_path)
+        print("Available collections:")
+        for idx, folder in enumerate(collections_folders, 1):
+            print(f"{idx}. {folder}")
+
+        collection_name = input("Enter the collection name to process (or leave blank to process all): ").strip()
+
+        if collection_name and collection_name in collections_folders:
+            folders_to_process = [collection_name]
+        elif collection_name:
+            print(f"Collection '{collection_name}' not found. Exiting.")
+            return
+        else:
+            folders_to_process = collections_folders
+
+        for folder in folders_to_process:
+            folder_path = os.path.join(base_dir, folder)
+            print(f"\nProcessing {folder}...")
+            create_json_files_for_collection(folder_path)
 
 if __name__ == "__main__":
     main()
