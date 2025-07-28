@@ -73,7 +73,6 @@ models/
 # Data files (if sensitive)
 data/
 *.csv
-*.json
 *.xlsx
 
 # Temporary files

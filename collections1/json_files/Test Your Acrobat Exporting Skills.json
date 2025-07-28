@@ -1,0 +1,28 @@
+{
+  "document_info": {
+    "filename": "Test Your Acrobat Exporting Skills.pdf",
+    "title": "Test Your Acrobat Exporting Skills",
+    "extraction_timestamp": "2025-07-28T13:24:07.206412",
+    "total_sections": 3
+  },
+  "sections": [
+    {
+      "title": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything",
+      "context": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything\nabout saving, converting, and exporting PDFs? It's time to put your knowledge to the test.\nDive into real-world scenarios, answer intriguing questions, and see if you have what it takes",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "to be a true PDF exporting pro",
+      "context": "to be a true PDF exporting pro\n1.\nYes or No:\nCan you save a PDF in text format to use with a screen reader?\n2.\nTrue or False:\nSaving a digitally signed PDF invalidates the signature.\n3.\nScenario:\nImagine you're working on an important report and your computer crashes.\nDo you rely on the Autosave feature to recover your work or start from scratch?\n4.\nYes or No:\nCan you recover the last saved version of a PDF if you accidentally delete it?\n5.\nTrue or False:\nThe Autosave feature in Acrobat saves your work every 15 minutes by\ndefault.\n6.\nScenario:\nYou're preparing a presentation for a big meeting. Do you use Acrobat to\nconvert your PDF to a PowerPoint file or manually recreate the slides?\n7.\nYes or No:\nCan you export a PDF to a reusable format like Microsoft Word?\n8.\nTrue or False:\nAcrobat Reader users can save a copy of a PDF if the creator has enabled\nusage rights.\n9.\nScenario:\nYou're a graphic designer who needs to save a copy of a PDF Portfolio for a\nclient. Do you use \"File > Save\" or \"File > Save As\"?\n10.\nYes or No:\nDoes the Autosave feature work if a document's security settings are\nchanged?\n11.\nTrue or False:\nYou can convert a PDF to a Microsoft PowerPoint presentation using\nAcrobat.\n12.\nScenario:\nYou're a student who needs to convert a PDF to a DOCX file for your thesis. Do\nyou use the \"Convert\" button in Acrobat or retype the entire document?\n13.\nYes or No:\nCan you export images from a PDF to another format using Acrobat?\n14.\nTrue or False:\nHigher resolutions, like 2400 ppi, are suitable for small page sizes.\n15.\nScenario:\nYou're a photographer who wants to save a PDF as a JPEG image for your\nportfolio. Do you use the \"Convert to JPEG\" option or take a screenshot?",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Yes or No:",
+      "context": "16.\nYes or No:\nCan you export a PDF to XML format using Acrobat?\n17.\nTrue or False:\nYou can use the Snapshot tool to copy selected content as an image.\n18.\nScenario:\nYou're a web developer who needs to export a PDF to HTML for your website.\nDo you use the \"Convert to HTML\" option or manually code the content?\n19.\nYes or No:\nCan you select and copy text and images from a PDF using the Select tool?\n20.\nTrue or False:\nThe Autosave feature is disabled by default in Acrobat.",
+      "page_number": 2,
+      "section_type": "page_content"
+    }
+  ]
+}

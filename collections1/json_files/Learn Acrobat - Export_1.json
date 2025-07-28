@@ -1,0 +1,1090 @@
+{
+  "document_info": {
+    "filename": "Learn Acrobat - Export_1.pdf",
+    "title": "Learn Acrobat - Export_1",
+    "extraction_timestamp": "2025-07-28T13:24:02.859186",
+    "total_sections": 180
+  },
+  "sections": [
+    {
+      "title": "PDF Portfolio",
+      "context": "PDF Portfolio\nin the original PDF or in a copy\nof the PDF. You can also save individual PDFs to other file formats, including text, XML,\nHTML, and",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Microsoft Word",
+      "context": "Microsoft Word\n.\nSaving a PDF in text format allows you to use the content with a screen reader, screen\nmagnifier, or other assistive technology.\nIf you don't have access to the source files that created an",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\n, you can still copy\nimages and text from the PDF to use elsewhere. You can also export the PDF to a reusable\nformat, or export images in a PDF to another format.",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe Acrobat Reader",
+      "context": "Adobe Acrobat Reader\nusers can save a copy of a PDF or",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PDF Portfolio",
+      "context": "PDF Portfolio\nif the creator of the\ndocument has enabled usage rights. If a document has additional or restricted usage rights,\nthe document message bar under the toolbar area describes the assigned restrictions or\nprivileges.",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save a PDF",
+      "context": "Save a PDF\nUse this method to save PDFs, including",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PDF Portfolios",
+      "context": "PDF Portfolios\n, and PDFs in which you have added\ncomments, form field entries, and digital signatures.\nNote:\nSaving a digitally signed PDF invalidates the signature.\n1.\nDo one of the following:\n*\nTo save changes, select",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save to computer",
+      "context": "Save to computer\nfrom the upper right. Alternatively\nyou can also select the hamburger menu  and select\nSave\n. For macOS,\nselect\nFile\n>\nSave\n.\n*\nTo save a copy of a PDF in Windows, select the hamburger menu   and then\nselect\nSave As\n. For macOS, select\nFile\n>\nSave As\n.\n*\nIn Acrobat Reader,\nfor Windows, select the hamburger menu   and then\nselect>\nSave As\n. For macOS, select\nFile\n>\nSave as\nText\n.\n*\nTo save a copy of a PDF Portfolio, select\nFile\n>\nSave\n.",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "If you are viewing",
+      "context": "Note:\nIf you are viewing a PDF in a web browser, the Acrobat File menu is not available. Use the\nSave A Copy button in the Acrobat toolbar to save the PDF.",
+      "page_number": 3,
+      "section_type": "page_content"
+    },
+    {
+      "title": "Recover the last saved version",
+      "context": "Recover the last saved version\n1.\nOn Windows, choose the hamburger\nMenu\n>\nUndo, Redo & more\n>\nRevert\n.\nOn macOS, select the\nFile\nmenu >\nRevert\n.",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "About the Autosave feature",
+      "context": "About the Autosave feature\nThe Autosave feature guards against losing your work in case of a power failure by\nincrementally, and at regular intervals, saving file changes to a specified location. The original\nfile is not modified. Instead, Acrobat creates an autosave file of changes, which includes all the\nchanges you made to the open file since the last automatic save. The amount of new\ninformation that the autosave file contains depends on how frequently Acrobat saves the\nautosave file. If you set the autosave interval to 15 minutes, you could lose the last 14 minutes\nof your work if a problem occurs. Frequent automatic saving prevents loss of data, and is\nespecially useful if you make extensive changes to a document, such as by adding comments.\nYou can apply autosave changes to the original files when you restart Acrobat. When you\nclose, save manually, or revert to the last-saved version of a file, the autosave file is deleted.\nNote:\nIf you use assistive technology, such as a screen reader, you may want to disable the Autosave\nfeature so that you don't lose your place when the file is reloaded.\nThe Autosave feature won't work in the following cases:\n*\nA document that has its security changed. You must save the document to re-enable\nautomatic saving of document changes.\n*\nA document created using the",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Web Capture",
+      "context": "Web Capture\nfeature or extracted from a larger PDF\n(",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize Pages",
+      "context": "Organize Pages\n>\nExtract\n). You must save the document to enable\nautomatic saving of changes.\n*\nA document displayed in a web browser or incorporated into a container document\nthat supports",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Object Linking",
+      "context": "Object Linking\nand Embedding (OLE). This document appears outside\nthe default file system and cannot support automatic saving.\nRecover lost changes\nTo prevent lost changes after an unexpected interruption, enable the Autosave feature, which\nis the default setting.",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set up automatic saving",
+      "context": "Set up automatic saving\n1.\nIn the Preferences dialog box under Categories, select Documents.\n2.\nSelect Automatically Save Document Changes To Temporary File Every\nxx\nMinutes (1-\n99), and specify the number of minutes.",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Recover lost changes after an unexpected shutdown",
+      "context": "Recover lost changes after an unexpected shutdown\n1.\nStart Acrobat or open the file you were working on last.\n2.\nWhen prompted, click Yes to open the autosave file or files. If multiple files were open,\nAcrobat opens all of the files for you.\n3.\nSave the file or files with the same names as the files you were originally working on.\nTo control changes and quality trade-offs, use",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Acrobat Pro",
+      "context": "Acrobat Pro\n, which makes\nmore options available. You can also easily convert from other file formats to PDF using our\nonline tools such as\nWord to PDF\nand\nConvert PDF\n.\nYou can easily convert your PDF files into Microsoft Word (DOC or DOCX) using Adobe\nAcrobat.",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to DOCX",
+      "context": "Convert PDF to DOCX\n1.\nOpen the PDF in Acrobat.\n2.\nFrom the global bar, select",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert.",
+      "context": "Convert.\n3.\nFrom the left pane, Select\nDOCX\nfrom the drop-down menu next to",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Microsoft Word",
+      "context": "Microsoft Word\n.\nThen select",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to DOC",
+      "context": "Convert PDF to DOC\n1.\nOpen the PDF in Acrobat.\n2.\nFrom the global bar, select",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert.",
+      "context": "Convert.\n3.\nFrom the left pane, Select\nDOC\nfrom the drop-down menu next to",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Microsoft Word",
+      "context": "Microsoft Word\n.\nThen select",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert to DOC",
+      "context": "Convert to DOC\n.\n4.\nIn the Save as\ndialog, select a location where you want to save the file and then\nselect\nSave\n.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to PPTX",
+      "context": "Convert PDF to PPTX\n1.\nOpen the PDF in Acrobat.\n2.\nSelect\nConvert\nfrom the globar bar.\n3.\nFrom the Convert menu in the left pane, select",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Microsoft PowerPoint PPTX.",
+      "context": "Microsoft PowerPoint PPTX.\n4.\nSelect",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert to PPTX",
+      "context": "Convert to PPTX\n.\n5.\nIn the dialog, select the location where you want to save the file and, if necessary,\nchange the file name.\n6.\nSelect\nSave\n.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "File format opons for PDF export in Acrobat",
+      "context": "File format opons for PDF export in Acrobat\nTo convert a PDF to different file formats, select\nConvert\nfrom the global bar. Each file format\nincludes unique conversion settings. Alternatively, you can use the",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\ntool from\nthe",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF options",
+      "context": "Adobe PDF options\nYou can resave PDFs as optimized PDFs using settings in the",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PDF Optimizer",
+      "context": "PDF Optimizer\ndialog box.\nThe",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PDF Optimizer",
+      "context": "PDF Optimizer\nlets you change the compatibility version of your PDFs so they can be\nviewed using older versions of Acrobat or Acrobat Reader. When you change the\ncompatibility setting, newer features may be unavailable in the PDF. For an explanation of\neach compatibility setting, view\nPDF compatibility levels\n.\nNote:\nIf you want to use the same settings every time you convert PDFs to a particular format,\nspecify those settings in the\nPreferences\ndialog box. In the",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert From PDF",
+      "context": "Convert From PDF\npanel, select a\nfile format from the list and select",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Edit Settings",
+      "context": "Edit Settings\n. You can select the",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Defaults",
+      "context": "Defaults\nat the top of\nthe",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save as Settings",
+      "context": "Save as Settings\ndialog box to revert to the default settings.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image conversion settings",
+      "context": "Image conversion settings\nJPEG and JPEG 2000 conversion settings\nIn Acrobat, select",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\nand select",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image format",
+      "context": "Image format\n. From the drop-down\nmenu next to",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image format",
+      "context": "Image format\n, select the format you want your image to be. You\nget\nJPEG\nand",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "JPEG 2000",
+      "context": "JPEG 2000\noptions. Select the\nsettings icon to change the export\npreferences.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "File settings",
+      "context": "File settings\n*\nGrayscale/Color:\nSpecifies a compression setting that balances file size with image\nquality. The smaller the file, the lesser the image quality.\n*\nTile Size:\nDivides the image being compressed into tiles of the given size. (If the image\nheight or width is not an even multiple of the tile size, partial tiles are used on the\nedges.) Image data for each tile is individually compressed and can be individually",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Color management",
+      "context": "Color management\nRGB/CMYK/Grayscale\nSpecifies the type of color management to be applied to the output file and whether to\nembed an ICC profile.\nNote:\nIf you use the",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export All Images",
+      "context": "Export All Images\ncommand on a PDF that contains JPEG and\nJPEG 2000 images, and export the content to JPEG or JPEG 2000 format, the resulting image\nmay look different when opened in Acrobat. This can happen if the images have a color\nprofile included at the page level but not inside the image data. In this case, Acrobat cannot\nbring the page-level color profile into the resulting saved image.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Conversion",
+      "context": "Conversion\nColorspace/Resolution\nSpecifies a color space and resolution for the output file. You can let Acrobat determine these\nsettings automatically. To convert color images in the file to shades of gray, choose Grayscale.\nNote:\nHigher resolutions, such as 2400 pixels per inch (ppi), are suitable only for small page sizes\n(up to 6.826 inches or 173.380 millimeters).\nPDF to PNG conversion settings\nIn Acrobat, select",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\nand select",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image format",
+      "context": "Image format\n. From the drop-down\nmenu next to",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image format",
+      "context": "Image format\n, select\nPNG\n. Select the\nsettings icon to change the export\npreferences.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Interlace",
+      "context": "Interlace\nSpecifies if the image is interlaced. None creates an image that displays in a web browser only\nafter downloading is complete. Adam7 creates an image that displays low-resolution versions\nin a browser while the full image file is downloading. Adam7 can make downloading time\nseem shorter and assures viewers that downloading is in progress; however, it increases file\nsize.\nFilter:\nLets you select a filtering algorithm.\n*\nNone\n: Compresses the image without a filter. Recommended for indexed-color\nand Bitmap-mode images.\n*\nSub:\nOptimizes the compression of images with even horizontal patterns or blends.\n*\nUp:\nOptimizes the compression of images with even vertical patterns.\n*\nAverage:\nOptimizes the compression of low-level noise by averaging the color values\nof adjacent pixels.\n*\nPaeth\n: Optimizes the compression of low-level noise by reassigning adjacent color\nvalues.\n*\nAdaptive:\nApplies the filtering algorithm--Sub, Up, Average, or Paeth--best suited for\nthe image. Select Adaptive if you are unsure of which filter to use.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Color management",
+      "context": "Color management\nRGB/Grayscale\nSpecifies the type of color management for the output file and whether to embed an ICC\nprofile.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Conversion",
+      "context": "Conversion\nColorspace/Resolution\nSpecifies a color space and resolution for the output file. You can let Acrobat determine these\nsettings automatically. To convert color images in the file to shades of gray, choose Grayscale.\nNote:\nHigher resolutions, such as 2400 ppi, are suitable only for small page sizes (up to 6.826 inches\nor 173.380 millimeters).",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\nand select",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image format",
+      "context": "Image format\n. From the drop-down\nmenu next to",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image format",
+      "context": "Image format\n, select\nTIFF\n. Select the\nsettings icon to change the export\npreferences.\nTIFF is a flexible bitmap image format supported by virtually all paint, image-editing, and\npage-layout applications. Resolution is determined automatically.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Monochrome",
+      "context": "Monochrome\nSpecifies a compression format. CCITTG4 is the default and generally produces the smallest\nfile size. ZIP compression also produces a small file.\nNote:\nSome applications cannot open TIFF files that are saved with JPEG or ZIP compression. In\nthese cases, LZW compression is recommended.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Color management",
+      "context": "Color management\nRGB/CMYK/Grayscale/Other\nSpecifies the type of color management for the output file.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Conversion",
+      "context": "Conversion\nColorspace/Resolution\nSpecifies a color space and resolution for the output file. You can let Acrobat determine these\nsettings automatically. To convert color images in the file to shades of gray, choose Grayscale.\nNote:\nHigher resolutions, such as 2400 ppi, are suitable only for small page sizes (up to 6.826 inches\nor 173.380 millimeters).",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PDF to Microso Word conversion sengs",
+      "context": "PDF to Microso Word conversion sengs\nIn Acrobat, select",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\nand select",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Microsoft Word.",
+      "context": "Microsoft Word.\nFrom the drop-down\nmenu next to",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Microsoft Word",
+      "context": "Microsoft Word\n, select the format you want your document to be in\n.\nYou\nget\nDOC\nand\nDOCX\noptions. Select the\nsettings icon to change the export preferences.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layout Settings",
+      "context": "Layout Settings\n*\nRetain Flowing Text:\nSpecifies that text flow must be retained.\n*\nRetain Page Layout:\nSpecifies that page layout must be retained.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Comments Settings",
+      "context": "Comments Settings\n*\nInclude Comments:\nExports comments to the output file.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image Settings",
+      "context": "Image Settings\n*\nInclude Images:\nExports images to the output file.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Text Recognition Settings",
+      "context": "Text Recognition Settings\n*\nRecognize Text If Needed:\nRecognizes text if the PDF contains images that contain text.\n*\nSet Language:\nSpecifies the language seng for OCR.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to RTF",
+      "context": "Convert PDF to RTF\n1.\nOpen the PDF in Acrobat.\n2.\nFrom the global bar, select",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "EXPORT PDF TO",
+      "context": "EXPORT PDF TO\n, select the drop-down menu next to",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Other format",
+      "context": "Other format\n. Then\nselect\nRTF\n.\n4.\nSelect",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert to RTF",
+      "context": "Convert to RTF\n.\n5.\nIn the Save as\ndialog, select a location where you want to save the file and then\nselect\nSave\n.",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PDF to RTF conversion sengs",
+      "context": "PDF to RTF conversion sengs\nIn Acrobat, select",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\nand select",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Other format.",
+      "context": "Other format.\nFrom the drop-down menu\nnext to",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Other format",
+      "context": "Other format\n, select\nRTF\n. Select the\nsettings icon to change the export\npreferences.",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layout Settings",
+      "context": "Layout Settings\n*\nRetain Flowing Text:\nSpecifies that text flow must be retained.\n*\nRetain Page Layout:\nSpecifies that page layout must be retained.",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Comments Settings",
+      "context": "Comments Settings\n*\nInclude Comments:\nExports comments to the output file.",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Text Recognition Settings",
+      "context": "Text Recognition Settings\n*\nRecognize Text If Needed:\nRecognizes text if the PDF contains images that contain text.\n*\nSet Language:\nSpecifies the language seng for OCR.",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to HTML Web Page",
+      "context": "Convert PDF to HTML Web Page\n1.\nOpen the PDF in Acrobat.\n2.\nFrom the global bar, select",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert.",
+      "context": "Convert.\n3.\nSelect the drop-down menu next to",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Other format",
+      "context": "Other format\n, Select\nHTML\n.\n4.\nSelect Convert to\nHTML.\n5.\nIn the Save as\ndialog, select a location where you want to save the file and then\nselect\nSave\n.",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PDF to HTML conversion sengs",
+      "context": "PDF to HTML conversion sengs\nIn Acrobat, select",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\nand select",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Other format.",
+      "context": "Other format.\nFrom the drop-down menu\nnext to",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Other format",
+      "context": "Other format\n, select\nHTML\n. Select the\nsettings icon to change the export\npreferences.",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "FILE AND NAVIGATION PANE SETTINGS",
+      "context": "FILE AND NAVIGATION PANE SETTINGS",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Single html page",
+      "context": "Single html page\nSpecifies that a single HTML file is created when you export to HTML. To add a navigation pane,\nenable the following:\n*\nAdd Headings-based Navigation Frame\n*\nAdd Bookmarks-based Navigation Frame",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Multiple html pages",
+      "context": "Multiple html pages\nSpecifies that multiple HTML files are created when you export to HTML. Choose one of the\ncriteria to split the document into multiple HTML files.\n*\nSplit by Document Headings\n*\nSplit by Document Bookmarks",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Include Images",
+      "context": "Include Images\nSpecifies if images are exported when you export a PDF as HTML.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Detect and Remove Headers and Footers",
+      "context": "Detect and Remove Headers and Footers\nSpecifies if header and footer content in the PDF should be deleted and removed from the\nHTML files.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Recognize Text If Needed",
+      "context": "Recognize Text If Needed\nRecognizes text if the PDF contains images that contain text.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set Language",
+      "context": "Set Language\nSpecifies the language setting for OCR.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to Microso Excel",
+      "context": "Convert PDF to Microso Excel",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to Microsoft Excel (XLSX)",
+      "context": "Convert PDF to Microsoft Excel (XLSX)\n1.\nOpen the PDF in Acrobat.\n2.\nFrom the global bar, select",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "From the Microsoft Excel",
+      "context": "From the Microsoft Excel\ndrop-down menu, select\nXLSX\n.\n4.\nSelect",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert to XLSX",
+      "context": "Convert to XLSX\n.\n5.\nIn the Save as\ndialog, select a location where you want to save the file and then\nselect\nSave\n.",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to XML",
+      "context": "Convert PDF to XML\n1.\nOpen the PDF in Acrobat.\n2.\nFrom the global bar, select",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Microsoft Excel",
+      "context": "Microsoft Excel\ndrop-down menu, select\nXML\n.",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert to XML",
+      "context": "Convert to XML\n.\n5.\nIn the Save as\ndialog, select a location where you want to save the file and then\nselect\nSave\n.\nPDF to Microso Excel (XLSX or XML) conversion sengs\nIn Acrobat, select",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\nand select",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Microsoft Excel",
+      "context": "Microsoft Excel\n. From the drop down\nmenu next to Microsoft Excel, select the format you want your Excel to be. You\nget\nXLSX\nand\nXML\noptions. Select the\nsettings icon to change the export preferences.",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Excel Workbook Settings",
+      "context": "Excel Workbook Settings\nSpecifies whether to create a Worksheet for each table or page, or the entire document.",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Numeric Settings",
+      "context": "Numeric Settings\nSpecifies the decimal and thousands separators for numeric data. Select one of the following:\n*",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Detect decimal and thousands separators using regional settings",
+      "context": "Detect decimal and thousands separators using regional settings\n*",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Treat the following as decimal and thousands separators",
+      "context": "Treat the following as decimal and thousands separators\n. Then enter or selecct\nseparators in the respective fields.",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Recognize Text If Needed",
+      "context": "Recognize Text If Needed",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set Language",
+      "context": "Set Language\nSpecifies the language setting for OCR.",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to PostScript or Encapsulated",
+      "context": "Convert PDF to PostScript or Encapsulated",
+      "page_number": 20,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PostScript (EPS)",
+      "context": "PostScript (EPS)\nYou can export a PDF to PostScript for printing and prepress applications. The PostScript file\nincludes full DSC (Document Structuring Conventions) comments and other advanced\ninformation preserved by Adobe Acrobat Distiller. You can also create an EPS file from any PDF\nfor placement or opening in other applications. The options available depend on whether\nyou're converting a document to PostScript or EPS. To convert PDF to PS or EPS format:\n1.\nOpen the PDF in Acrobat.\n2.\nFrom the global bar, select",
+      "page_number": 20,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert.",
+      "context": "Convert.\n3.\nSelect the drop-down menu next to",
+      "page_number": 20,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Other format",
+      "context": "Other format\n, as required, select\nEPS\nor\nPS\n.\n4.\nSelect",
+      "page_number": 20,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert to PS",
+      "context": "Convert to PS\n. The options will be displayed based on your\nchoice in the previous step.\n5.\nIn the Save as\ndialog, select a location where you want to save the file and then\nselect\nSave\n.\nNote:\nIf you create EPS files for separations in Acrobat Pro, all image color spaces should be CMYK.",
+      "page_number": 20,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\nand select",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Other format.",
+      "context": "Other format.\nFrom the drop-down menu\nnext to",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Other format",
+      "context": "Other format\n, select\nPS\nor\nEPS\n. Select the\nsettings icon to change the export\npreferences.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Printer Description File",
+      "context": "Printer Description File\nThe PostScript Printer Description (PPD) provides the necessary information to format a\nPostScript file correctly for a particular output device. Device Independent creates only\ncomposite (not color-separated) PostScript or EPS files. Acrobat Default provides a starting\npoint and reference for creating all types of PostScript and restores all default settings for the\nconversion. Adobe PDF 7.0 is compatible with most devices. This option is available only in\nPostScript (PS) format.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "ASCII or Binary",
+      "context": "ASCII or Binary\nSpecifies the output format of image data. Binary output yields smaller files, but not all\nworkflows can accommodate binary output.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PostScript",
+      "context": "PostScript\nSpecifies the level of PostScript compatibility. Use",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Language Level 3",
+      "context": "Language Level 3\nonly if the target output\ndevice supports it.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Language Level 2",
+      "context": "Language Level 2\nis suitable for EPS files placed in another document and\ncolor-separated as part of that document. Use",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Language Level 2",
+      "context": "Language Level 2\nfor EPS files that you import\ninto Microsoft applications.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Font Inclusion",
+      "context": "Font Inclusion\nSpecifies the fonts to be included in the PostScript. Embedded fonts are taken from the PDF;\nthe referenced fonts are taken from the computer.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Include Comments",
+      "context": "Include Comments\nPreserves the appearance of comments in the resulting PostScript file.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert True Type to Type 1",
+      "context": "Convert True Type to Type 1\nConverts TrueType fonts to Type 1 fonts in the resulting PostScript file.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Include Preview",
+      "context": "Include Preview\nSpecifies if a TIFF preview is created for the resulting EPS file. This option isn't available when\nsaving as PostScript.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Page Range",
+      "context": "Page Range\nSpecifies the pages you want to export. When you export files to EPS output, each page in the\nrange is saved as a separate EPS file.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to Text and XML 1.0",
+      "context": "Convert PDF to Text and XML 1.0",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to XML 1.0",
+      "context": "Convert PDF to XML 1.0\nTo export a file in XML format, go to",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\n.  Select other format, then the\ndrop-down next to other format, and then select\nXML 1.0\n.",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to text",
+      "context": "Convert PDF to text\nTo export a file in text format, go to",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\n.  Select",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "other format",
+      "context": "other format\n, then the\ndrop-down next to",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "other format",
+      "context": "other format\n, and then select\nTXT\n.\nPDF to Text and XML 1.0 conversion settings\nIn Acrobat, select",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\nand select",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Other format.",
+      "context": "Other format.\nFrom the drop-down\nmenu next to",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Other format",
+      "context": "Other format\n, select\nTXT\nor\nXML 1.0\n. Select the\nsettings icon to change the\nexport preferences.",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Encoding",
+      "context": "Encoding\nRefers to the binary values, based on international standards, used to represent the text\ncharacters.\nUTF-8\nis a Unicode representation of characters using one or more 8-bit bytes per\ncharacter.\nUTF-16\nrepresents characters using 16-bit bytes. ISO-Latin-1 is an 8-bit\nrepresentation of characters that is a superset of ASCII. UCS-4 is a Universal Character Set\ncoded in four octets. HTML/ASCII is a 7-bit representation of characters developed by ANSI.",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Use mapping table default",
+      "context": "Use mapping table default\nuses the default character encoding defined in mapping tables,\nwhich appear in the Plug-ins/SaveAsXML/MappingTables folder. These mapping tables\nspecify many characteristics of how the data is output, including the following default\ncharacter encodings:\nUTF-8\n(Save as XML or HTML 4.0.1) and HTML/ASCII (Save as HTML\n3.2).",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Generate Bookmarks",
+      "context": "Generate Bookmarks\nGenerates bookmark links to content for HTML or XML documents. Links are placed at the\nbeginning of the resulting HTML or XML document.",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Generate Tags For Untagged Files",
+      "context": "Generate Tags For Untagged Files\nGenerates tags for files not already tagged, such as PDFs created using Acrobat 4.0 or earlier.\nIf this option isn't selected, untagged files are not converted.\nNote:\nTags are applied only as part of the conversion process and are discarded after the\nconversion. This is not a method for creating tagged PDFs from legacy files",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Generate Images",
+      "context": "Generate Images\nControls how images are converted. Converted image files are referenced from within XML\nand HTML documents.",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Use Sub-Folder",
+      "context": "Use Sub-Folder\nSpecifies the folder in which to store generated images. The default is Images.",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Use Prefix",
+      "context": "Use Prefix\nSpecifies the prefix added to the image filenames if you have several versions of the same\nimage file. Filenames assigned to images have the format filename_img_#.",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Output Format",
+      "context": "Output Format\nSpecifies the final format of images. The default is JPG.",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Downsample To",
+      "context": "Downsample To\nDownsamples image files to the specified resolution. If you don't select this option, image files\nhave the same resolution as the source file. Image files are never upsampled.\nYou can easily\nconvert PDF files to JPEG\nimages using Adobe Acrobat. You can also convert\nyour PDF files into PNG or TIFF file formats using Acrobat.",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to JPEG or JPEG 2000",
+      "context": "Convert PDF to JPEG or JPEG 2000\n1.\nOpen the PDF in Acrobat.\n2.\nSelect\nConvert\nfrom the global bar.\n3.\nFrom the\nConvert\nmenu in the left pane, select",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image format",
+      "context": "Image format\n, and then from the\ndrop-down menu, select\nJPEG\nor",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "JPEG 2000",
+      "context": "JPEG 2000\n.\n4.\nSelect",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert to JPEG 2000",
+      "context": "Convert to JPEG 2000\n. Different options are shown based\non your selection in the previous step.\n5.\nIn the dialog, select the location where you want to save the file and, if necessary,\nchange the file name.\n6.\nSelect\nSave\n.\nEach page in the PDF is saved as separate JPEG files.\nFor PDF to JPEG or PDF to JPEG 2000 conversion settings, go to\nFile format options for PDF\nexport\n.\nYou can easily convert your PDF files into TIFF images using Adobe Acrobat.",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to TIFF",
+      "context": "Convert PDF to TIFF\n1.\nOpen the PDF in Acrobat.\n2.\nSelect\nConvert\nfrom the global bar.",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image format",
+      "context": "Image format\n, and then from the drop-\ndown menu, select\nTIFF.\n4.\nelect",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert to TIFF.",
+      "context": "Convert to TIFF.\n5.\nIn the dialog, select the location where you want to save the file and, if necessary,\nchange the file name.\n6.\nSelect\nSave\n.\nEach page in the PDF is saved as separate TIFF files.\nFor PDF to TIFF conversion settings, go to\nFile format options for PDF export\n.\nYou can easily convert your PDF files into PNG images using Adobe Acrobat.",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert PDF to PNG",
+      "context": "Convert PDF to PNG\n1.\nOpen the PDF in Acrobat.\n2.\nSelect\nConvert\nfrom the global bar.\n3.\nFrom the Convert menu in the left pane, select",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image format",
+      "context": "Image format\n, and then from the drop-\ndown menu, select\nPNG\n.\n4.\nSelect",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert to PNG.",
+      "context": "Convert to PNG.\n5.\nIn the dialog, select the location where you want to save the file and, if necessary,\nchange the file name.\n6.\nSelect\nSave\n.\nEach page in the PDF is saved as separate PNG files.",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Overview",
+      "context": "Overview\nAcrobat allows you to export images and text selections from a PDF to different file formats.\nEach format uses unique conversion settings when you export text or image selections.",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export images from PDFs",
+      "context": "Export images from PDFs\nBesides exporting the entire document or each page to a different format, you can export\neach image in a PDF to a separate image file.\nNote:\nYou can export raster images, but not vector objects.\n1.\nOpen the PDF in Acrobat and select\nConvert\nfrom the top tools bar. Alternatively,\nfrom the",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "All tools",
+      "context": "All tools\nmenu, select",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export a PDF",
+      "context": "Export a PDF\n.\nThe various formats to which you can export the PDF file are displayed.\n2.\nFrom the\nConvert\npanel, select",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "image format",
+      "context": "image format\nand then from the drop-down, select the\ndesired image file format.\n3.\nOptional) To configure the conversion settings, select Settings\nand then modify\nthe settings as required. Once done, select\nOK\n.\n4.\n(Optional) To configure the image settings:\n1.\nSelect",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export all Images",
+      "context": "Export all Images\nand then select Settings\n2.\nIn the dialog that appears, specify the",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "File Settings",
+      "context": "File Settings\n,\nColor",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Extraction",
+      "context": "Extraction\nsettings for the file type.\n3.\nFor",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Exclude images smaller than",
+      "context": "Exclude images smaller than\n, select the smallest size of the image to be\nextracted. Select No Limit to extract all images.\n4.\nSelect\nOk\n.\nNote:\nIf you do not select the Export All Images option, all pages within the PDF are saved in the\nselected image file format.\n5.\nSelect",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert to JPEG",
+      "context": "Convert to JPEG\n.\n6.\nIn the\nSave as\ndialog that appears, select a desired location or select",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "different folder",
+      "context": "different folder\nto select alternate locations.",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export Selection As",
+      "context": "Export Selection As\n.\n3.\nSelect a format from the",
+      "page_number": 27,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save As Type",
+      "context": "Save As Type\nlist and select\nSave\n.",
+      "page_number": 27,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Select and copy text and images",
+      "context": "Select and copy text and images\nThe\nSelect\ntool\nlets you select horizontal and vertical text or columns of text, images,\nvector objects, and tables in a PDF. The\nSelect\ntool\nrecognizes the type of content under\nthe cursor and changes automatically. You can use the Copy, Copy with Formatting, Export\nSelection As, and Paste commands to copy the selected text into another application. Note\nthe following:\n*\nIf you're unable to select text, the text may be part of an image. In Acrobat, select\nAll\ntools\n>\nScan & OCR,\nthen select",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "RECOGNIZE TEXT",
+      "context": "RECOGNIZE TEXT\nto export image\ntext to text that can be selected.\n*\nIf the Cut, Copy, Copy with Formatting, and Paste commands are unavailable when\nyou select the text, the author may have set restrictions to copying text.\n*\nIf the text you copy uses a font that isn't available on your system, the font is\nsubstituted with a close match or default font.",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Select text and images",
+      "context": "Select text and images\n1.\nSelect the Select tool\n, and hover over an empty part of the page. Alternatively,\npress Ctrl (Windows) or Command (macOS); the pointer changes to display a\nrectangle.\n2.\nDrag the pointer and draw a rectangle to select a part of the page.",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Select a column of text",
+      "context": "Select a column of text\n1.\nUsing the Select tool\n, move the pointer toward a column of text. When the\npointer changes to a vertical bar, the\nSelect\ntool is in column select mode.\nNote:\nYou can force column select mode by pressing Alt as you drag a rectangle over the\ncolumn of text.\n2.\nDrag a rectangle over the column of text. To select text across multiple columns, drag\nfrom the beginning of the text in one column to the end of the text you want to select.",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Select all the text on a page",
+      "context": "Select all the text on a page\n1.\nSelect\nView\nfrom the upper left (macOS) or select the hamburger menu on the upper\nleft and then select\nview\n(Windows). Select",
+      "page_number": 29,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Single-page view",
+      "context": "Single-page view\n.\n2.\nSelect four times repeatedly in the text area. This method selects all the text on the\npage regardless of the page layout.\nNote:\nIf you choose any other page layout, all the text in the document is selected.",
+      "page_number": 29,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Copy selected text",
+      "context": "Copy selected text\n1.\nUse the Select tool\nto select any amount of text on the page.\n2.\nRight-click on the selected text, and then select\nCopy.\nYou can paste the copied text into comments, bookmarks, and documents authored in\nother applications.",
+      "page_number": 29,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Paste copied text and images",
+      "context": "Paste copied text and images\n1.\nOpen the PDF in which you want to paste the selected text or image.\n2.\nSelect the area where you want to paste the text or image.\n3.\n(Windows) Press",
+      "page_number": 29,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Ctrl + V",
+      "context": "Ctrl + V\n.\n(macOS) Press",
+      "page_number": 29,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert selected content to other formats",
+      "context": "Convert selected content to other formats\nYou convert selected content to other formats by exporting a selection. For example, you can\nselect content and\nsave it as a Word document\n, Excel spreadsheet, or comma-separated\nvalues.\n1.\nSelect the\nSelect\ntool\n. Press Ctrl (Windows) or Command (macOS) to create a\nrectangular selection.\n2.\nDrag a rectangle over the content to copy. If you're selecting text in columns,\npress\nAlt\n(Windows).\nNote:\nTo select tables that exceed one page, try changing the page display to\nSingle\nPage\nbefore selecting the tables. Then select\nView\n>",
+      "page_number": 30,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enable Scrolling",
+      "context": "Enable Scrolling\n.\n3.\nRight-click the selection, select\nExport Selection As,\nand specify a filename.\n4.\nDepending on the nature of the content, in the\nSave As\nType, select one of the\nfollowing:\n*",
+      "page_number": 30,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Word Document or Word 97-2003",
+      "context": "Word Document or Word 97-2003\nSaves the content as a Word file.\n*\nExcel Workbook, XML Spreadsheet, or CSV\nSaves the content as a table.\n*",
+      "page_number": 30,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Rich Text Format or HTML",
+      "context": "Rich Text Format or HTML\nSaves the content as an RTF or HTML file.\nNote:\nTo copy a table in RTF, drag the selected table into an open document in the\ntarget application.\n*",
+      "page_number": 30,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PowerPoint",
+      "context": "PowerPoint\nSaves the content as a PowerPoint (.pptx) file.",
+      "page_number": 30,
+      "section_type": "heading_section"
+    }
+  ]
+}

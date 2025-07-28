@@ -1,0 +1,586 @@
+{
+  "document_info": {
+    "filename": "Learn Acrobat - Generative AI_1.pdf",
+    "title": "Learn Acrobat - Generative AI_1",
+    "extraction_timestamp": "2025-07-28T13:24:04.431490",
+    "total_sections": 96
+  },
+  "sections": [
+    {
+      "title": "Overview of generative AI features",
+      "context": "Overview of generative AI features\nUse the generative AI features in Acrobat and Acrobat Reader to quickly scan through\nlengthy, complex PDF content and get answers or generate a summary.\nNote:\nThe generative AI features in Acrobat and Acrobat Reader support English, French,\nGerman, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms,\nreview Adobe's Generative AI User Guidelines. To understand Adobe's data handling\npractices, see Content usage and handling practices.\nThe AI-powered features in Acrobat and Acrobat Reader support multiple document types,\nincluding PDFs, DOCX, PPTX, TXT, and RTF files. AI Assistant supports Microsoft Teams and\nZoom meeting transcripts. The capabilities improve comprehension and save time across\nvarious document types.\nAI Assistant quickly gets answers to your questions based on your documents in a\ncomprehensive and informative way. It can analyze multiple documents to uncover\nsimilarities, differences, and key patterns. With AI Assistant, you can make targeted requests,\nsuch as highlighting the differences between PDF contracts. It links to text and data table\nsources within the document. It also suggests follow-up questions for you based on the\nprimary question. AI Assistant uses the latest AI language model, GPT 4o, to provide more\naccurate and clear answers to your queries based on more citations. It can extract information\naccurately from tables and complex documents.\nGenerative summary automatically provides an outline with headings and summaries to\nhighlight key points in the document. The feature generates key insights that help you easily\ncomprehend the PDF content. For a speedier response, it processes PDF content in chunks\nand simultaneously streams summaries.\nYou can access the generative AI features in Adobe Acrobat Reader, Adobe Acrobat desktop\non both Windows and macOS, on Acrobat online, and within Acrobat extensions for Google",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Benefits of generative AI features",
+      "context": "Benefits of generative AI features\nThe generative AI features in Acrobat and Acrobat Reader significantly improve\ncomprehension, help you get insights, and produce high-quality content quickly. Here are the\nmain benefits.\n-\nImproved comprehension:\nYou can better understand complex PDF documents\nbecause the features provide insights and more context around the content.\n-",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enhanced productivity",
+      "context": "Enhanced productivity\n: Work across multiple PDFs and documents in various formats,\nincluding Teams and Zoom meeting transcripts, streamlining your workflow and\nsaving time for higher-priority tasks.\n-",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Impactful content",
+      "context": "Impactful content\n: You can use the content suggestions that the features generate for\nimpactful emails, presentations, meeting notes, and more.",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Turn off generative AI features",
+      "context": "Turn off generative AI features\nThe generative AI features in Acrobat and Acrobat Reader are turned on by default. However,\nyou can choose to turn them off, if necessary. If you're an admin, you can revoke access to\ngenerative AI features for your team or org by contacting Adobe Customer Care.",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "User Guidelines",
+      "context": "User Guidelines\nUser Guidelines governing your access and use of Acrobat and Acrobat Reader generative AI\nfeatures are found here.\nIn addition, please always use your judgment to evaluate generated output and any source\nattributions. Acrobat and Acrobat Reader generative AI features are built upon powerful,\nemerging large language model technologies that may generate outputs that are inaccurate\nor misleading, or otherwise reflect content that does not represent Adobe's views. This is\nespecially true if you try to use these features to generate outputs that are unrelated to your\nsource document.\nDo not use generative AI features to seek legal, medical, financial, or other kinds of\nprofessional advice or any opinions, judgments, or recommendations without conducting",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "your own independent consultation or research. Generative AI features cannot replace",
+      "context": "your own independent consultation or research. Generative AI features cannot replace\nadvice provided by a qualified professional and do not form any such relationship (for\nexample, an attorney-client relationship).",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Attributions",
+      "context": "Attributions\nWhen the AI Assistant analyzes a document, it identifies sentences most likely to support the\nanswer to your question. Attribution can take the form of clickable citations or other helpful",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Feedback",
+      "context": "Feedback\nWe provide a feedback mechanism directly within the AI Assistant to help us improve\naccuracy and other performance issues. This is an ongoing process, and we will continue to\nwork together with our customers and community to harness the power of this new\ntechnology responsibly.",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Content usage and handling practices",
+      "context": "Content usage and handling practices\nThis FAQ addresses Adobe's content usage and handling practices specific to improving\ngenerative AI capabilities in Adobe Acrobat and Adobe Acrobat Reader. For purposes of this\nFAQ, references to \"generative AI capabilities\" are specific to Acrobat AI Assistant and\nGenerative summary only. To learn more about how Adobe may analyze metadata and\ninformation about your prompt (for example, question type) and document (for example,\nnumber of pages, document structure, document type, and other document statistics) for\nproduct improvement purposes in Document Cloud generally, see our content analysis FAQ.\nFor more information about Adobe's security, privacy, and AI ethics practices, see the Adobe\nDocument Cloud security page (and other materials in our Trust Center), the Adobe Privacy\nPolicy, and the Adobe AI Ethics page, respectively.",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Will adobe ever look at your content while you're using generative ai in acrobat and",
+      "context": "Will adobe ever look at your content while you're using generative ai in acrobat and",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "acrobat reader?",
+      "context": "acrobat reader?\nWe do not look at your document, prompt(s), or generated responses except in the instances\ndescribed below.\n*\nReported content, bugs, or vulnerabilities\n. When you report content (e.g., for being\nharmful, illegal, offensive, etc.), we investigate it by manually reviewing the document,\nprompt(s), and generated responses to make adjustments to the service to address the\nissue.\n*",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "User-Provided Feedback",
+      "context": "User-Provided Feedback\n. For Acrobat Individual users* and Acrobat Reader users that\nprovide feedback, you have the option to share with us your document, prompt(s),\nand generated responses during a document session for product improvement",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "What steps do we take to protect your content when you share it with us as part of",
+      "context": "What steps do we take to protect your content when you share it with us as part of",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "providing feedback?",
+      "context": "providing feedback?\n*\nWhen you share your documents, textual prompts, and the generated responses with\nus when providing feedback, we take steps to filter out personal information by\napplying data masking procedures to this content (i.e., replacing personal information\nwith predefined categories using Named Entity Recognition, e.g., replacing \"John\nSmith\" with \"PERSON\") prior to using the content for product improvement.\n*\nContent is stored for 30 days in an encrypted, siloed, Adobe-controlled environment\nwith strict access controls. You can always contact us via the form in our Privacy\nPolicy if you want us to delete this data sooner, or if you want to opt out of the use of\nyour content to improve generative AI capabilities in Acrobat and Acrobat Reader.\nIf you flag content as being harmful, illegal, or offensive or if you contribute content as\nfeedback, how long do we retain that content?\nThe flagged content is only retained for 30 days unless we have other legal reasons to retain it\naccess as described in our Privacy Policy. You can always contact us via the form in our\nPrivacy Policy if you want us to delete this data sooner.",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Do acrobat's generative ai features process my documents when i launch the application or",
+      "context": "Do acrobat's generative ai features process my documents when i launch the application or",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "open a file in the application?",
+      "context": "open a file in the application?\nNo. To access Acrobat generative AI features, you must sign into your Adobe account\nand agree to the Adobe Generative AI User Guidelines surfaced in a one-time \"Getting\nStarted\" experience when you first interact with such features in Acrobat. This activates the\ngenerative AI feature set in Acrobat for all subsequent document sessions. After activation, a\nuser must engage AI Assistant or generative summary on a specific file before processing\ntakes place.\nIf I'm signed into my adobe account, does acrobat's generative ai features automatically\nstart processing my documents when I launch the application, or open a file in the",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "application?",
+      "context": "application?\nNo. Acrobat's generative AI features, like AI Assistant, do not start automatically processing\nany of your documents upon application launch or upon opening a file into the application. A\nuser must first activate the generative AI feature set through a one-time \"Getting Started\" in-",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "What LLMS are we leveraging to power generative ai in acrobat?",
+      "context": "What LLMS are we leveraging to power generative ai in acrobat?\nWith AI Assistant in Acrobat and Acrobat Reader, Adobe takes an LLM-agnostic approach,\nselecting best-in-class technologies that address a range of customer use cases. We currently\nhave integrated the Microsoft Azure OpenAI Service with our proprietary technologies to\nprovide generative AI capability in Acrobat and Acrobat Reader.\nDoes adobe concurrently train any large language models (\"LLMS\") with your content",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "while you're using generative ai features in acrobat?",
+      "context": "while you're using generative ai features in acrobat?\nNo. Acrobat does not train any LLMs on your content concurrent to your interactions with\ngenerative AI in Acrobat. Prompts provided to AI Assistant do not modify the underlying\nmodel. Your content will not be used to train any LLMs that deliver Acrobat's generative AI\ncapability. For more information, please refer to the questions above in this help section\n(Content Usage and Handling Practices).\nNote:\nAdobe does not use content from an organization or school account for product\nimprovement for generative AI unless otherwise agreed to by the organization or school.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Managing chat history",
+      "context": "Managing chat history",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "What is chat history?",
+      "context": "What is chat history?\nAcrobat now allows you to reference past conversations you had with AI Assistant. Chat\nhistory includes your textual prompts and generated responses for a specific document or a\nset of documents you selected, also termed a Collection.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "How can I see my chat history?",
+      "context": "How can I see my chat history?\nChat history includes your past conversations with AI Assistant and is linked to either a single\ndocument or a Collection. To view these conversations, simply open the document or\nCollection from your list of recent files.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Where is my chat history stored?",
+      "context": "Where is my chat history stored?\nIt's stored on your local device for Acrobat and Reader's desktop, mobile, and online apps\nand in Adobe cloud storage for Acrobat's online app. It permits you to easily access the\nconversation to review or continue using AI Assistant.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Can I export my chat history in AI Assistant?",
+      "context": "Can I export my chat history in AI Assistant?\nExport is not currently available. Instead, you can copy the chat history or specific generated\nresponses into your text editor of choice. Learn more here.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "How can I clear my chat history in AI Assistant?",
+      "context": "How can I clear my chat history in AI Assistant?\nYou can clear chat history from the\nMore\nmenu for each individual document or a Collection.\nSelecting",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Clear chat history",
+      "context": "Clear chat history\nwill delete all of the chat history, meaning the document\noverview, textual prompts (suggested by AI Assistant or provided by you), and generated\nresponses.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Can I disable chat history in AI Assistant?",
+      "context": "Can I disable chat history in AI Assistant?\nThis is currently not available to users.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Can i share my chat history with others?",
+      "context": "Can i share my chat history with others?\nNo, you can't share your chat history with other users.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "What happens if I disconnect acrobat from other third-party cloud storage services such as",
+      "context": "What happens if I disconnect acrobat from other third-party cloud storage services such as",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "google drive or OneDrive?",
+      "context": "google drive or OneDrive?\nYou'll no longer be able to access your third-party cloud storage files in Acrobat and the AI\nAssistant chats associated with them.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "File considerations",
+      "context": "File considerations\n*\nThe language of the PDF file is English, French,\nGerman, Spanish, Italian, Brazilian Portuguese, or\nJapanese.\n*\nThe file size must be less than 100 MB.\n*\nThe file can have up to 600 pages.\n*\nThe PDF shouldn't be password protected or have any\nusage restrictions.\n*\nThe file shouldn't be a PDF Portfolio.\n*\nThe maximum character limit for the text selection\nfeature in AI Assistant is 8000 characters. The selected\ntext must be on a single page and cannot span multiple\npages.\nNote:\nThe limits on PDF file size and page count are determined by the server settings and will\nautomatically adjust if the server settings change.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Account and login",
+      "context": "Account and login\n*\nYou're online.\n*\nGenerative AI features are enabled.\nUsage\n*\nKeep your questions under 500 characters.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "App settings",
+      "context": "App settings\n*\nSet the language of the Acrobat or Acrobat Reader app\nto English, French, German, Spanish, Italian, Brazilian\nPortuguese, or Japanese.\n*\nTurn on the new Acrobat or Acrobat Reader\nexperience. On Windows, select the hamburger menu,\nand then select",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enable new Acrobat",
+      "context": "Enable new Acrobat\n. On macOS, go\nto",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "View > Enable new Acrobat",
+      "context": "View > Enable new Acrobat\n.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Supported OS",
+      "context": "Supported OS\n*\niOS\n: Version 16 and later",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Windows and macOS",
+      "context": "Windows and macOS\n: See Acrobat system\nrequirements.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Supported browsers",
+      "context": "Supported browsers\nSee Technical requirements for Acrobat on the web.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Get AI-generated answers",
+      "context": "Get AI-generated answers\nAI Assistant supports scanned documents. You can scan your paper documents and upload\nthem to Acrobat to get concise summaries and accurate answers to your questions. It also\nbreaks down complex language into key details, making it easy to read and understand\ncontracts directly in Acrobat.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "AI Assistant",
+      "context": "AI Assistant\nThe AI Assistant feature provides AI-generated answers to your questions based on the\ncontent of the selected files. It also highlights the portion of content from where it fetches the\nanswer for more context. The AI Assistant also suggests follow-up questions based on your\nprimary query.\nTo get started:\n1.\nOpen a PDF and select",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "AI Assistant",
+      "context": "AI Assistant\nin the global bar. To select multiple files, go to\nAcrobat Home and choose",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Recommended tools for you",
+      "context": "Recommended tools for you\nsection,\nchoose your files, and select\nOpen\n.\nNote:\nYou can select up to 10 files, each 600 pages long and no larger than 100 MB.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Get started",
+      "context": "Get started\n.\n3.\nSelect from the sample questions that are displayed based on the content of your PDF\nfile. Alternatively, type your question in the message field.\n4.\nThe answer to your question is displayed. The relevant sources are marked with\nnumbers. You can do the following:\n*\nSelect a number to navigate directly to the corresponding section of the document. If\nthere are multiple files, hovering the mouse over the number shows the preview of the\nreferenced document.\n*\nTo hide the attributed sources within the document, select",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Hide sources",
+      "context": "Hide sources\nfrom the\nOptions menu.\n*\nTo copy a specific answer, select\nCopy\n, or choose",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Copy full chat",
+      "context": "Copy full chat\nfrom the Options\nmenu to copy the entire conversation.\n*\nWhile the AI Assistant generates the response, you can pause the processing anytime\nby selecting\nStop\n.\n*\nMove the drag handle left or right to adjust the AI Assistant pane size for better\nreadability.\n*\nReview related questions that the AI Assistant suggests based on your primary query.\n*\nTo add more files, select",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add files",
+      "context": "Add files\n.\n*\nTo remove a file from the Collection, select",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "View and manage files in chat",
+      "context": "View and manage files in chat\n,\nthen",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Remove file from chat",
+      "context": "Remove file from chat\n.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Accessing chat history in Acrobat",
+      "context": "Accessing chat history in Acrobat\nAcrobat preserves your interactions with AI features, even after you quit the application. You\ncan view these chat interactions by opening the file from your\nRecent\nfile list. When you select\nmultiple files, Acrobat creates a collection that includes your chat history for future reference.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Get AI-generated overviews and summaries",
+      "context": "Get AI-generated overviews and summaries\nThe Generative summary feature summarizes the document's organization and content. It\nalso provides a brief overview at the beginning to explain what the entire document is about.\nWhether you're a researcher, business analyst, or student, the generative AI features help you\nscan your PDF documents and quickly extract the essence, key points, and insights.\n1.\nOpen a PDF file and select the Generative summary   icon in the navigation panel.\nAlternatively, you can select",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Get started",
+      "context": "Get started\n.\n3.\nAn overview of the document is generated with section headings and summaries.\nSelecting a summary takes you directly to the corresponding section in the document\nfor more detailed information.\nOverview of the document\n4.\n(\nOptional\n) To copy a specific summary, choose\nCopy\n, or choose",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Copy full",
+      "context": "Copy full\nsummary\nfrom the Options menu.",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Streaming summaries for long PDFs",
+      "context": "Streaming summaries for long PDFs\nWhen you use Generative summary to scan lengthy PDFs, Acrobat or Acrobat Reader\nprocesses the content in chunks and simultaneously streams summaries of the portions that it\nprocesses. It helps improve your productivity because you can instantly review the output and\nstay engaged.\nThe key advantages of streaming summaries include:\n*",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Real-time streaming",
+      "context": "Real-time streaming\n: As Acrobat or Acrobat Reader processes a lengthy PDF, it\nconcurrently streams summaries for sections it has already analyzed. It helps eliminate\nany latency associated with summarizing voluminous content.\n*",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Segmented display",
+      "context": "Segmented display\n: When you start generating the summary for your content, you'll\nimmediately see summarized content for the sections that the Generative summary\nfeature finished processing.\n*",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Parallel processing",
+      "context": "Parallel processing\n: While you engage with the summarized sections, the feature\nextracts headings, and generates summaries for the subsequent sections.\nUse generative AI features in meeting apps\nYou can harness the power of generative AI features in Acrobat to gain insights from\ntranscripts of online meetings in Microsoft Teams and Zoom. Use the generative AI\nfeatures to summarize discussions or draft emails for meeting notes or action\nitems. You can access the generative AI features from Acrobat Reader, Acrobat\ndesktop and online, and Acrobat for Microsoft Teams.",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Prerequisites",
+      "context": "Prerequisites\nTo access meeting information in Microsoft Teams, your admin must first configure Adobe\nAcrobat as the default PDF viewer in Microsoft Teams. The admin must also allow a list of\nendpoints to integrate Teams with Acrobat and grant permissions for Adobe Acrobat to be\nthe default app in Teams.\nAfter the admin accepts the permissions, you can integrate your Microsoft Teams account\nwith Acrobat.\n1.\nIn Acrobat Home, select",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add meeting transcripts",
+      "context": "Add meeting transcripts\nunder",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Third-party apps",
+      "context": "Third-party apps\n.\n2.\nUnder the Microsoft Teams icon, select",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Sign in to Teams",
+      "context": "Sign in to Teams\nand enter your login\ncredentials. The list of meetings is now available in Acrobat.\nView meeting details in Acrobat\nYou can access the list of meeting transcripts from Acrobat Home in Microsoft Teams. The list\nincludes transcripts for meetings. Each meeting in the list includes information, such as\nmeeting name, organizer, date, time, and duration. You can also filter meetings based on a\ndate range.",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Access Zoom meeting transcripts in Acrobat",
+      "context": "Access Zoom meeting transcripts in Acrobat\nYou must sign in to the Zoom web portal to access the Zoom meeting information. Then,\ndownload the meeting transcript and open it in Acrobat to use the AI features. Do the\nfollowing:\n1.\nIn Acrobat Home, select",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add meeting transcripts",
+      "context": "Add meeting transcripts\nunder",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Third-party apps",
+      "context": "Third-party apps\n.\n2.\nUnder the Zoom app icon, select",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Learn more",
+      "context": "Learn more\n.\n3.\nFollow the on-screen instructions to sign in to your Zoom web portal and download\nthe meeting transcript. Choose",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Select file",
+      "context": "Select file\nto select and open the transcript in Acrobat.",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Manually open meeting transcripts in Acrobat",
+      "context": "Manually open meeting transcripts in Acrobat\nYou can also open any meeting transcript directly in the viewer and use Acrobat's generative\nAI features for insights or summaries. If you have the VTT transcript file, then convert it to a\nPDF and open it in Acrobat to access the AI tools.\nKnow how to use generative AI features from Acrobat desktop and Acrobat online Home\nIn Acrobat Home, under the",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Recommended tools for you",
+      "context": "Recommended tools for you\nsection, you can now use the AI\nAssistant to interact with your documents. Choose",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Select files",
+      "context": "Select files\nand select one or multiple files\nto start a conversation with your documents and extract insights.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Recommended tools for",
+      "context": "Recommended tools for\nyou\nsection of Acrobat Home. To start using a generative AI tool, select the respective call-to-\naction.\nAcrobat desktop\nIn Acrobat online, the generative AI tools appear one at a time in the",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Explore what's",
+      "context": "Explore what's\nnew\nsection of Acrobat Home. To start using a generative AI tool, select a file and then select\nthe generative AI tool.\nAcrobat online\nAlternatively, in Acrobat Home, select",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "All tools",
+      "context": "All tools\n, then select",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Generative",
+      "context": "Generative\nsummary\ntool.",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Get started",
+      "context": "Get started\nto continue.",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Use generative AI features in Acrobat Reader",
+      "context": "Use generative AI features in Acrobat Reader\nIf you are signed in to Acrobat Reader, you can access the generative AI features from\nHome. The Generative AI tools appear next to the",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Recommended tools for you",
+      "context": "Recommended tools for you\nsection. To\nstart using a generative AI tool, select the respective call-to-action.\nNote:\nThe generative AI features in Acrobat Reader are being rolled in phases and aren't available\nto all users.",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Get started",
+      "context": "Get started\nto continue.\nYou can interact with the content that the generative AI features produce to indicate whether\nyou're satisfied with the output. Based on whether you find it useful, you can choose to like or\ndislike the generated response.\nYou can even report a piece of content that is inappropriate according to you. Adobe will\nreview your concerns and take appropriate action, if necessary.\nYou can also play a part in improving the capabilities of the generative AI features by\nproviding specific feedback about your experiences with the features.",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Like or dislike the response",
+      "context": "Like or dislike the response\n1.\nTo report accurate or inaccurate responses, select the like\n, or dislike\noption\nrespectively.\n2.\nTo provide detailed feedback, select",
+      "page_number": 20,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Tell us more",
+      "context": "Tell us more\n.\n3.\nChoose from the options, or provide details in the text box. Then select\nSubmit\n.\nWhen you provide feedback, you have the option to share your document, prompts,\nand generated responses during a document session for product improvement\npurposes. If you don't wish to share your content, uncheck the product improvement\ncheckbox when you provide feedback for the first time on a document.\nProvide feedback for what worked well",
+      "page_number": 20,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Report inappropriate content",
+      "context": "Report inappropriate content\nYou can report content that is potentially inappropriate, offensive, or harmful and requires\nmoderation or action.\n1.\nFor the provided response, select\nReport\n.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Rate your experience with the generative AI",
+      "context": "Rate your experience with the generative AI",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "features",
+      "context": "features\nAfter using the AI features four or more times, Acrobat or Acrobat Reader prompts you to rate\nyour overall experience with the AI Assistant and Generative summary features. Choose a\nrating and\nSubmit\nit. The widget displays a text field to enter your feedback if your rating is\ntwo or less.\nRate the Generative AI features\nThe generative AI features are turned on by default. To turn off the features, do the following:",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Turn off generative AI features in Acrobat or Acrobat Reader",
+      "context": "Turn off generative AI features in Acrobat or Acrobat Reader\ndesktop\n1.\nClose any open files. Then, navigate to\nPreferences\n>",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Generative AI",
+      "context": "Generative AI\n.\n2.\nTo turn off the generative AI features, deselect",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enable generative AI features in",
+      "context": "Enable generative AI features in\nAcrobat\n, and then select\nOK\n.",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enable generative AI features in",
+      "context": "Enable generative AI features in\nAcrobat\n, and select\nOK\n.",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Turn off generative AI features in Acrobat on the web",
+      "context": "Turn off generative AI features in Acrobat on the web\n1.\nChoose your profile at the upper-right corner, then select\nSettings\n.\n2.\nDeselect",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enable generative AI features in Acrobat",
+      "context": "Enable generative AI features in Acrobat\n, then select\nSave\n.",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Modern Viewer",
+      "context": "Modern Viewer\nin the Acrobat Enterprise\nToolkit (ETK) preference reference. The option is only available for Acrobat desktop.\nUse Acrobat's AI Assistant on mobile to ask your document questions and use responses to\ndraft impactful content. It improves productivity and efficiency, transforming your interaction\nwith documents anytime, anywhere.",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "AI Assistant",
+      "context": "AI Assistant\n.\nAlternatively, you can also access AI Assistant from the contextual menu. Select\nthe text for AI Assistant. The contextual menu opens, then select\nAsk AI",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Hide sources",
+      "context": "Hide sources\nfrom\nthe Options menu.\n*\nWhile the AI Assistant generates the response, you can select\nStop\nto pause the\nprocessing.",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Move the drag handle up or down to resize the AI Assistant pane for better",
+      "context": "*\nMove the drag handle up or down to resize the AI Assistant pane for better\nreadability.\n*\nReview related questions that the AI Assistant suggests based on your primary\nquery.",
+      "page_number": 29,
+      "section_type": "page_content"
+    },
+    {
+      "title": "Provide feedback for generated answers",
+      "context": "Provide feedback for generated answers\nYour feedback is essential for the AI Assistant to learn and develop better answers the next\ntime you come with questions. To provide feedback:\n1.\nSelect the reference numbers given alongside the generated answers.\nContent references\n2.\nLong press anywhere inside the panel to get options to provide feedback.",
+      "page_number": 30,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Indicate response",
+      "context": "Indicate response",
+      "page_number": 31,
+      "section_type": "page_content"
+    },
+    {
+      "title": "Turn off AI Assistant",
+      "context": "Turn off AI Assistant\nIf you don't require Al Assistant, you can turn it off from\nPreferences\n.\n1.\nSelect the profile icon on your device.\n2.\nSelect\nPreferences\n.\n3.\nSelect the toggle next to",
+      "page_number": 32,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enable generative AI features in Acrobat",
+      "context": "Enable generative AI features in Acrobat\n.\nToggle generative AI features",
+      "page_number": 32,
+      "section_type": "heading_section"
+    }
+  ]
+}

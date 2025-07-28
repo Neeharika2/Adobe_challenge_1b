@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "create and manage fillable forms for onboarding and compliance",
+        "processing_timestamp": "2025-07-28T13:25:45.432454",
+        "total_sections_analyzed": 1425,
+        "relevant_sections_found": 10
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Change flat forms to fillable (Acrobat Pro)",
+            "importance_rank": 1,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Prepare Forms",
+            "importance_rank": 2,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Auto-Complete forms (interactive forms",
+            "importance_rank": 3,
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Is the form fillable?",
+            "importance_rank": 4,
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Adobe PDF Settings",
+            "importance_rank": 5,
+            "page_number": 21
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Change flat forms to fillable (Acrobat Pro)",
+            "refined_text": "Change flat forms to fillable (Acrobat Pro)\nYou can change a flat form to a fillable form by either using the",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Prepare Forms",
+            "refined_text": "Prepare Forms\ntool. See\nCreate a form from an existing\ndocument\n.",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Auto-Complete forms (interactive forms",
+            "refined_text": "Auto-Complete forms (interactive forms\nonly)\nThe",
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Is the form fillable?",
+            "refined_text": "Is the form fillable? Not all forms are fillable. Sometimes form creators don't convert their PDFs to\ninteractive\nfillable\nforms. Or, they intentionally design a form that you can fill in only by hand\nor with the",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Adobe PDF Settings",
+            "refined_text": "Adobe PDF Settings\ndialog box, which contains many\nadditional conversion options. These conversion settings apply to all Acrobat features that\ncreate PDFs, such as Acrobat Distiller, PDFMaker, and the Acrobat application itself. PDF/A Compliance\nCreates the PDF so that it conforms to the selected ISO standard for long-term preservation of\nelectronic documents.",
+            "page_number": 21
+        }
+    ]
+}

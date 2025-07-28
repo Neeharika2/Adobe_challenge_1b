@@ -1,0 +1,388 @@
+{
+  "document_info": {
+    "filename": "Learn Acrobat - Fill and Sign.pdf",
+    "title": "Learn Acrobat - Fill and Sign",
+    "extraction_timestamp": "2025-07-28T13:24:03.519565",
+    "total_sections": 63
+  },
+  "sections": [
+    {
+      "title": "Fill and Sign PDF Forms",
+      "context": "Fill and Sign PDF Forms\nYou can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Interactive forms",
+      "context": "Interactive forms\n: These contain fields that you can select and fill in.\n*",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Flat forms",
+      "context": "Flat forms\n: These do\nnot have interactive fields. It could be a paper form or PDF that\nhasn't been optimized for form filling. The Fill & Sign tool automatically detects the\nform fields like text fields, comb fields, checkboxes, and radio buttons. You can\nmanually add text and other symbols anywhere on the form using the Fill & Sign tool if\nrequired.\nYou can complete the forms by entering information and adding your signatures. Acrobat\nalso allows you to send your completed forms to others and securely save them in Adobe\ncloud storage.",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Fill and sign PDF forms",
+      "context": "Fill and sign PDF forms\nTo complete and sign PDF forms, open the form in Acrobat and then select\nE-Sign\nfrom the\nglobal bar. Alternatively, you can select",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Fill & Sign",
+      "context": "Fill & Sign\n.\nIt displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the\nform using the sign tools described in the following topics.",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "To fill text fields:",
+      "context": "To fill text fields:\n1.\nFrom the left panel, select Fill in form fields\n, and then select the field where you\nwant to add text.\nIt displays a text field along with a toolbar.\n2.\nSelect the text field again and enter your text.\n3.\nTo reposition the text box to align it with the text field, select the textbox and hover\nover it. Once you see a plus icon with arrows, move the textbox to the desired\nposition.\n4.\nTo edit the text, select the text box. Once you see the cursor and keypad, edit the text\nand then click elsewhere to enter.\n5.\nTo change the text size, select A or A as required.",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Keep signatures black",
+      "context": "Keep signatures black\ncheckbox.\n7.\nTo change the text style from normal to combed, from the textbox menu,\nselect ellipsis (\n)>",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "It changes the text",
+      "context": "It changes the text style from normal to combed. To increase or decrease the spacing, you can\nselect the blue arrow icon and then drag it as desired.\n8.\nOnce done, select the next field space and then enter your text in the text box. Use the\nformatting options as desired.\nRepeat the step to fill all the required fields in the form.",
+      "page_number": 4,
+      "section_type": "page_content"
+    },
+    {
+      "title": "To fill radio option fields:",
+      "context": "To fill radio option fields:\n1.\nHover over the field with the radio option.\nIt automatically displays the default checkmark or the selected radio field symbol.\n2.\nSelect the radio option field to enter the symbol.\n3.\nTo change the symbol, select the field again, and then from the menu, ellipsis (\n) and\nthen select another symbol.\nIt marks the field with the selected symbol.",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "To add signature and initials:",
+      "context": "To add signature and initials:\n1.\nCreate your signature and initials if not already done. To do so:\n1.\nFrom the Quick action toolbar, select",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add your signature or initials",
+      "context": "Add your signature or initials",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add signature",
+      "context": "Add signature\n. In the dialog that appears, type or\ndraw your signature and then select\nDone\n.\n3.\nTo add your initials, select",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add initials",
+      "context": "Add initials\n. In the dialog that appears, type or draw\nyour initials and then select\nDone\n.\nNote:\nYou may also add an image as your signature or initials. To add an existing\nimage, tap the image icon from the top menu. To take a new picture to be added as\nyour signature, tap the camera icon and follow through with the workflow.\n2.\nTo add a signature:\n1.\nFrom the Quick actions toolbar, select Add your signature or initials\n.\nSelect",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add Signature",
+      "context": "Add Signature\n.\n2.\nYour signature appears in the field.\nNote: Once you add a signature or initial to a form and save it, you cannot edit\nit again.\n3.\nTo adjust the placement of your signature, hover over the signature till you see\na plus icon, and then click and move the signature as desired.\n4.\nTo adjust the size of your signature, hover over the blue circle at the corner and\nthen hold and drag it as desired.\nCaution:",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add Initials",
+      "context": "Add Initials\n. Your initials appear in the field.\n2.\nTo adjust the placement of your signature, hover over it until you see a plus\nicon, and then click and move the signature as desired.\n3.\nTo adjust the size of your signature, hover over the blue circle at the corner and\nthen hold and drag it as desired.\nNote:\nIf you want to use an image as your signature or initials:\n*\nSign your name in black ink on a clean, blank sheet of white paper. Sign in the middle\nof the paper so you don't photograph or scan the edges.\n*\nPhotograph or scan your signature. If you are taking a picture of your signature, make\nsure that the page is lit and that no shadows fall across the signature.\n*\nTransfer the photo or scan to your computer. Acrobat/Reader accepts JPG, JPEG, PNG,\nGIF, TIFF, TIF, and BMP files. You do not need to crop the image. Acrobat/Reader\nimports just the signature if the photo or scan is fairly clean.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Is the form fillable?",
+      "context": "Is the form fillable?\nNot all forms are fillable. Sometimes form creators don't convert their PDFs to\ninteractive\nfillable\nforms. Or, they intentionally design a form that you can fill in only by hand\nor with the",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Fill & Sign",
+      "context": "Fill & Sign\ntool. These non-interactive forms are called\nflat\nforms.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Fill in interactive forms",
+      "context": "Fill in interactive forms\nAn\ninteractive\nform contains fields that you can select or fill in.\n1.\nIf necessary, select either the",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Select Tool",
+      "context": "Select Tool\nfrom the context menu of\nthe page (right-click on the page to open the context menu).\nThe pointer changes to a different icon as you move it over a field. For example,\nthe\nHand\ntool changes to an I-beam  when you can type text into the form field.\nSome text fields are dynamic, meaning that they automatically resize to accommodate\nthe amount of data you enter and can span across pages.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Select anywhere in the form to access options, such as radio buttons. Select inside a",
+      "context": "2.\nSelect anywhere in the form to access options, such as radio buttons. Select inside a\ntext field to type.\nPress Tab to move forward or Shift+Tab to move backward.\n3.\nWhen finished, submit the form to either send the data to a server or create an email\nto send the data.",
+      "page_number": 9,
+      "section_type": "page_content"
+    },
+    {
+      "title": "Auto-Complete forms (interactive forms",
+      "context": "Auto-Complete forms (interactive forms\nonly)\nThe",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Auto-Complete",
+      "context": "Auto-Complete\nfeature stores any entries that you type in an interactive form field.\nAuto-",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Complete",
+      "context": "Complete\nthen suggests or even automatically enters responses that match your typing in\nother form fields. The suggestions appear in a pop-up menu, from which you can select a\nmatch. The",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Auto-Complete",
+      "context": "Auto-Complete\nfeature is off by default, so you must enable it in the forms\npreferences if you want to use it.\nTo remove an entry from the",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Auto-Complete",
+      "context": "Auto-Complete\nmemory, such as a misspelled entry that you\nfound and corrected later, edit the list in the preferences.\nNote:\nThe forms preferences apply to the way that the application handles open forms as you work.\nThe preferences aren't saved with the PDF forms themselves.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enable the Auto-Complete option",
+      "context": "Enable the Auto-Complete option\n1.\nFrom the hamburger menu, select\nPreferences\n(Windows(r)), or select\nAcrobat\n/ Acrobat Reader\n>\nPreferences\n(macOS).\n2.\nIn the\nPreferences\ndialog, select\nForms\nas the preference category.\n3.\nUnder",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Auto-Complete",
+      "context": "Auto-Complete\n, choose\nBasic\nor",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Advanced",
+      "context": "Advanced\nfrom the menu.\n4.\nSelect",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Remember Numerical Data",
+      "context": "Remember Numerical Data\nif you want the",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Auto-Complete",
+      "context": "Auto-Complete\nmemory to store\nnumbers that you type into forms.\nNote:\nWhen you select an option in the",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Auto-Complete",
+      "context": "Auto-Complete\nmenu, a description of how it affects\nthe",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Auto-Complete",
+      "context": "Auto-Complete\nbehavior appears in the text area below.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Delete an entry from the Auto-Complete memory",
+      "context": "Delete an entry from the Auto-Complete memory\n1.\nOpen the\nPreferences\ndialog. From the hamburger menu,\nselect\nPreferences\n(Windows(r)), or select\nAcrobat\n/\nAcrobat\nReader\n>\nPreferences\n(macOS).\n2.\nSelect\nForms\non the left.\n3.\nClick",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Edit Entry List",
+      "context": "Edit Entry List\nunder Auto-Complete.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Auto-Complete Entry List",
+      "context": "Auto-Complete Entry List\ndialog box, do one of the following, and then\nselect\nYes\nto confirm:\n*\nTo remove all entries, select",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Remove All",
+      "context": "Remove All\n.\n*\nTo remove some of the entries, select the entries and click\nRemove\n. (Shift-\nselect to select multiple adjacent entries; Ctrl-select to select multiple\nnonadjacent entries.)",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Change flat forms to fillable (Acrobat Pro)",
+      "context": "Change flat forms to fillable (Acrobat Pro)\nYou can change a flat form to a fillable form by either using the",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Prepare Form",
+      "context": "Prepare Form\ntool or\nenabling the",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Fill & Sign",
+      "context": "Fill & Sign\ntools. Acrobat and Acrobat Reader users can use the Fill & Sign tool\nto fill in flat forms.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Interactive form",
+      "context": "Interactive form\nTo create an interactive form, use the",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Prepare Forms",
+      "context": "Prepare Forms\ntool. See\nCreate a form from an existing\ndocument\n.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Flat form",
+      "context": "Flat form\nTo enable the",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Fill & Sign",
+      "context": "Fill & Sign\ntools, from the hamburger menu (\nFile\nmenu in macOS)\nchoose",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Acrobat Reader Extended PDF",
+      "context": "Acrobat Reader Extended PDF\n>\nEnable More Tools (includes\nForm Fill-in & Save)\n.\nThe tools are enabled for the current form only. When you create a different form, redo this\ntask to enable Acrobat Reader users to use the tools.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save forms",
+      "context": "Save forms\n*\nTo save the completed form, choose\nSave As\nfrom the hamburger menu (\nFile\n>\nSave\nAs\nin macOS) and rename the file.\n*\nTo remove extended Acrobat Reader features, choose",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save A Copy",
+      "context": "Save A Copy\n(\nFile\n>\nSave A\nCopy\nin macOS).\n*\nTo allow Acrobat Reader users to save the data they typed, choose one of the\nfollowing depending upon your operating system:\nWindows(r)\n:",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Acrobat Reader Extended PDF",
+      "context": "Acrobat Reader Extended PDF\n>",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enable More Tools",
+      "context": "Enable More Tools\n(Includes Form Fill-in & Save)\nmacOS\n:\nFile\n>",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Acrobat Reader Extended PDF",
+      "context": "Acrobat Reader Extended PDF\n>",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enable More Tools",
+      "context": "Enable More Tools\n(Includes Form Fill-in & Save)\n.",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Print forms",
+      "context": "Print forms\n1.\nSelect",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Print this file",
+      "context": "Print this file\nfrom the upper right.\n2.\nChoose an appropriate printer in the\nPrint\ndialog box.\n3.\nIn the",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Comments And Forms",
+      "context": "Comments And Forms\nmenu, choose one of the following, and then select\nOK\n:\n*\n(Interactive or flat form) To print the form and the typed entries,\nchoose\nDocument\n. This option prints text that you've typed using the\nAdd\nText\ntool.\n*\n(Interactive or flat form) To print the form, the typed entries, and any\ncomments on the form, choose",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Document And Markups",
+      "context": "Document And Markups\n. This option prints\ntext that you've typed using the",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add Text",
+      "context": "Add Text\ntool.\n*\n(Interactive form only) To print only the typed entries and not the form itself,\nchoose",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Clear unsaved form entries",
+      "context": "Clear unsaved form entries\n1.\nChoose\nTools\n>",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Prepare a form",
+      "context": "Prepare a form\n. In the\nFields\nside panel, choose",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Clear Form",
+      "context": "Clear Form\nfrom the\nOptions menu\n.\nYou can sign a document to attest to its contents or approve the document. This document\nexplains how to sign a document or agreement using Acrobat or Reader desktop application.\nTo sign a PDF document or form, you can type, draw, or insert an image of your handwritten\nsignature. You can also add text, such as your name, company, title, or date. When you save\nthe document, the signature and text become part of the PDF.\nNote:\nYou can also capture a picture of your signature on mobile using Adobe Acrobat Reader mobile\napp and save it in Adobe cloud storage so that it's synced and available for use across your\ndesktop and other mobile devices.\n1.\nOpen the PDF document. Select\nE-sign\nfrom the global bar.\n2.\nCreate your signature and initials if not already done. To do so:\n1.\nTo add a signature, select Add signature. In the dialog that appears, type, draw,\nor add an image of your signature and then select Done.\n2.\nTo add your initials, select Add initials. In the dialog that appears, type, draw, or\nadd an image of your initials and then select Done.\n3.\nSelect your signature.\n4.\nThe form fields are detected automatically. Hover the mouse over a field to display a\nblue box. Click anywhere in the blue box, the cursor will be placed at the right position\nautomatically. Type your text to fill the field.\nTo fill the PDF form with your desired color, from the Quick actions toolbar, select the Color\nicon and then select a color.\nBy default, the signature color is black. To retain the default color of the signature, make sure\nthe Keep signatures black option is unchecked.\n5.\nIf you've already added your signature or initials, just select it from the Sign options,\nand then click at the place in the PDF where you want to add your signature. Skip to\nthe next step.\nIf you are signing for the first time, you see the Signature or Initials panel. Below is an example\nof the Signature panel.",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Sign an agreement",
+      "context": "Sign an agreement\nIf you receive an email request for a signature from someone using Adobe Acrobat Sign, you\ncan access the agreement from the link in your email or through your Acrobat or Acrobat\nReader desktop application. You will see a notification that an agreement has been shared\nwith you for signing.\nYou can sign the agreement using one of the following two ways:",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Sign using Acrobat/Reader desktop application",
+      "context": "Sign using Acrobat/Reader desktop application\n1.\nGo to Acrobat or Acrobat Reader Home and then from under",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe Acrobat Sign",
+      "context": "Adobe Acrobat Sign\n.\nIt takes you to the Adobe Acrobat Sign page where all the agreements shared or\nreceived for signature are displayed.\n2.\nDouble-click the agreement with the Waiting For You status, or select the\nagreement, and click\nSign\nin the right-pane. The agreement opens.\n3.\nSelect the fields and enter the required information.\n4.\nSelect the signature field and then select\nApply\n.\nNote:\nIf you are signing for the first time, you see the Signature or Initials panel as\nshown below.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Sign using the email link",
+      "context": "Sign using the email link\n1.\nSelect the link of the agreement received in your email for signing. The agreement\nopens in a web browser.\n2.\nSelect the fields and enter the requested information.\n3.\nSelect the signature field and then select\nApply\n.\n*\nType:\nType your name in the field. You can choose from a small selection of signature\nstyles; click Change Style to view a different style.\n*\nDraw:\nDraw your signature in the field.\n*\nImage:\nBrowse and select an image of your signature.\n*\nMobile:\nSelect this option to create your signature on a mobile device. Enter your\nmobile number and click Send. A link is sent to your mobile. Clicking the link opens\nthe web browser on your mobile device where you can draw or select an image of\nyour signature.\n*\nSave:\nWhen this check box is selected, and you're signed in to Acrobat Reader or\nAcrobat, the added signature is saved securely in Adobe cloud storage for reuse.\n4.\nSelect",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Remove your signature or initials",
+      "context": "Remove your signature or initials\nYou can remove your saved signature or initials from Acrobat:\n1.\nOpen a PDF in Acrobat.\n2.\nSelect your signature present on the page.\n3.\nFrom the floating toolbar, select Delete",
+      "page_number": 18,
+      "section_type": "heading_section"
+    }
+  ]
+}

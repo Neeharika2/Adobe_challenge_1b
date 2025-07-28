@@ -1,0 +1,1066 @@
+{
+  "document_info": {
+    "filename": "Learn Acrobat - Create and Convert_2.pdf",
+    "title": "Learn Acrobat - Create and Convert_2",
+    "extraction_timestamp": "2025-07-28T13:24:01.607075",
+    "total_sections": 176
+  },
+  "sections": [
+    {
+      "title": "Retain Some Layers In The Selected Page",
+      "context": "Retain Some Layers In The Selected Page\n, you'll be prompted to\nchoose which Visio layers to include.\n1.\nClick",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert To Adobe PDF",
+      "context": "Convert To Adobe PDF\n, specify a location and filename, and click\nSave\n.",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Select Visio layers to convert (Acrobat Pro)",
+      "context": "Select Visio layers to convert (Acrobat Pro)\nYou can convert a Visio drawing that contains layers to a PDF and retain some or all of the\nlayers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers\nin\nlayer sets\n, which are folders in the",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Acrobat Layers",
+      "context": "Acrobat Layers\npanel.\n1.\nWith the multilayered file open in Visio, click a button in the",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\ntoolbar, and\nselect",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Retain Some Layers In The Selected Page",
+      "context": "Retain Some Layers In The Selected Page\n.\nNote:\nIf the",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Retain Some Layers In The Selected Page",
+      "context": "Retain Some Layers In The Selected Page\noption is not available, deselect\nthe",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert All Pages In Drawing",
+      "context": "Convert All Pages In Drawing\noption.\n2.\nSelect one or more layers in the",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layers In Visio Drawing",
+      "context": "Layers In Visio Drawing\nlist.\n3.\nTo add the selected Visio layers to the list of layers to convert to the PDF file, do one\nof the following:\n*\nTo convert the selected Visio layers to individual PDF layers within a PDF layer\nset, click",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Create Layer Set",
+      "context": "Create Layer Set\n, and optionally, type a layer name.\n*\nTo convert the selected Visio layers to individual layers (but not grouped\nunder a layer set), click the\nAdd Layer(s)\nbutton.\nNote:\nThe name of a layer in the",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layers In Visio Drawing",
+      "context": "Layers In Visio Drawing\nlist is unavailable if that\nlayer is included in the",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layers In PDF",
+      "context": "Layers In PDF\nlist. When you select that layer in the",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layers In",
+      "context": "Layers In\nPDF\nlist, a bullet appears next to the layer's name in the",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layers In Visio Drawing",
+      "context": "Layers In Visio Drawing\nlist.\n4.\nOptionally, do any of the following:\n*\nTo reorder the layers in the",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layers In PDF",
+      "context": "Layers In PDF\nlist, drag an item up or down in the\nlist.\n*\nTo include a visibility property that can be switched on or off in Acrobat,\ndeselect",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Locked On",
+      "context": "Locked On\nadjacent to the PDF layer; to lock the resulting PDF layer's\nvisibility on, select",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Locked On",
+      "context": "Locked On\n.\n*\nTo save the current settings of Visio layers selected, click",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save PDF Settings",
+      "context": "Save PDF Settings\n,\nand click\nOK\n. These settings are used the next time you convert the current\nVisio file to a PDF file.\n5.\nClick",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert To PDF",
+      "context": "Convert To PDF\n, specify a folder in the\nSave In\nbox in which to save the PDF file,\ntype a filename, and then click\nSave\n.",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Visio layers that were selected for conversion and that have Visio settings for",
+      "context": "Note:\nVisio layers that were selected for conversion and that have Visio settings for\nvisible, printable, or lock are converted to PDF layers; the visible and printable\nproperties are included in the resulting PDF layers. If the Visio file contains a\nbackground page, header, or footer, the PDF file automatically has PDF layers named\nfor those items.",
+      "page_number": 2,
+      "section_type": "page_content"
+    },
+    {
+      "title": "Convert AutoCAD files to PDF (Acrobat Pro for",
+      "context": "Convert AutoCAD files to PDF (Acrobat Pro for",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Windows)",
+      "context": "Windows)\nUse PDFMaker to convert AutoCAD files from within the AutoCAD application. You can also use\nthe",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Batch Conversion",
+      "context": "Batch Conversion\nfeature to convert many AutoCAD files in one operation.\nAcrobat\nPDFMaker preserves selected layers and layouts when converting AutoCAD files to PDF.",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert AutoCAD files when AutoCAD is installed",
+      "context": "Convert AutoCAD files when AutoCAD is installed\nWhen converting individual AutoCAD files, you don't usually need to change page size and\nplotting settings. PDFMaker uses the appropriate layout page size and plotting information to\ncreate a correctly sized PDF file.\nNote:\nAcrobat can't convert DWG to PDF without AutoCAD installed.\n1.\nTo change the PDF conversion settings, choose",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Change Conversion",
+      "context": "Change Conversion\nSettings\nin AutoCAD.\n2.\nDo one of the following:\n*\nClick a button in the",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert To Adobe",
+      "context": "Convert To Adobe\nPDF\nor",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert To Adobe PDFAnd Send For Review",
+      "context": "Convert To Adobe PDFAnd Send For Review\n.\n*\nChoose",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert To Adobe PDF",
+      "context": "Convert To Adobe PDF\n.\n*\nChoose",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert To Adobe PDF And Email",
+      "context": "Convert To Adobe PDF And Email\n.\n*\nChoose",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert To Adobe PDFAnd Send For Review",
+      "context": "Convert To Adobe PDFAnd Send For Review\n.\n3.\nIn the",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Choose Layouts",
+      "context": "Choose Layouts\ndialog box, add or remove layouts as needed. To reorder the\nlayouts, select a layout from the",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layouts In PDF",
+      "context": "Layouts In PDF\nlist, and click\nMove Up\nor\nMove\nDown\n.\n4.\nTo determine how the AutoCAD layers are converted, select one of the following, and\nthen click\nContinue\n:\n*",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Flatten All Layers",
+      "context": "Flatten All Layers\n. When layers are flattened, only those entities belonging to\nlayers that are not frozen and are printable appear in the converted PDF.\n*",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Retain All Or Some Layers",
+      "context": "Retain All Or Some Layers\n. In the next dialog box, specify the layers to include\nin the resulting PDF.\n5.\nSpecify a filename and location in the\nSave As\ndialog box, and click\nSave\n.",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Select AutoCAD layers to convert",
+      "context": "Select AutoCAD layers to convert\nIf you choose to retain all or some AutoCAD layers when converting to PDF, you can specify\nwhich layers are preserved in the PDF.\n1.\nIn AutoCAD, start to convert an AutoCAD file and select the",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Retain All Or Some",
+      "context": "Retain All Or Some\nLayers\noption.\n2.\nTo show specific AutoCAD layers in the",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layers In Drawing",
+      "context": "Layers In Drawing\nlist, do any of the\nfollowing:\n*\nChoose an option from the",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Named Layer Filters",
+      "context": "Named Layer Filters\nmenu to list all layers that fit\nthat criterion.\n*\nSelect the\nInvert\noption to list all layers except those layers that are described\nby the selected choice in the",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Named Layer Filters",
+      "context": "Named Layer Filters\nmenu.\n*\nTo change the sort order of the layers, click the headings.\nNote:\nTo change the\nOn\n,\nFrozen\n, or\nPlot\nproperties for a layer, click\nCancel\n, change\nthe properties in the AutoCAD drawing, and restart the procedure.\n3.\nTo select the AutoCAD layers to convert, do any of the following:\n*\nChoose a previously saved set of layers from the",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PDF Layer Settings",
+      "context": "PDF Layer Settings\nmenu.\n*\nSelect one or more layers from the",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layers In Drawing",
+      "context": "Layers In Drawing\nList.\n*\nTo convert all of the layers in the drawing, click",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add All Layers",
+      "context": "Add All Layers\n, and go to step\n5.\n4.\nTo add the selected AutoCAD layers to the",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layers In PDF",
+      "context": "Layers In PDF\nlist, do one of the following:\n*\nTo convert the selected AutoCAD layers to individual layers within a PDF layer\nset, click",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Create Layer Set",
+      "context": "Create Layer Set\n. This action creates a folder of layers in\nthe\nLayers\nnavigation pane in Acrobat.\n*\nTo convert the selected AutoCAD layers to individual layers, click\nAdd\nLayer(s)\n.\n5.\nOptionally, do any of the following in the",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Layers In PDF",
+      "context": "Layers In PDF\nlist:\n*\nTo reorder layers, drag an item up or down in the list.\n*\nTo include a visibility property that can be switched on or off in Acrobat,\ndeselect",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Locked On",
+      "context": "Locked On\nfor the PDF layer. To lock the resulting PDF layer's\nvisibility on, select",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Locked On",
+      "context": "Locked On\n.\n*\nTo save the current list of selected AutoCAD layers, click",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add PDF Setting",
+      "context": "Add PDF Setting\n.\nLater, you can retrieve this list from the",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PDF Layer Settings",
+      "context": "PDF Layer Settings\nmenu.\n6.\nClick\nConvert\n, specify a filename and location, and then click\nSave\n.",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert AutoCAD files in batches",
+      "context": "Convert AutoCAD files in batches\n1.\nChoose",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Batch Conversion",
+      "context": "Batch Conversion\n.\n2.\nSpecify your preferences for layers, page size, plot style, and output PDFs.\nClick",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Conversion Settings",
+      "context": "Conversion Settings\nto specify the",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Acrobat PDFMaker",
+      "context": "Acrobat PDFMaker\nsettings.\n3.\nIn the DWG List, do any of the following:\n*\nClick",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add Files",
+      "context": "Add Files\n, and then specify the folder or files.\n*\nTo load a previously saved list of files, click",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Append List",
+      "context": "Append List\n, and then specify the\nlist.\n*\nAs needed, expand individual files and select or deselect the items you want,\nsuch as model space and layouts. To exclude or include all model space, click\nthe associated buttons.\n*\nTo exclude a file from the conversion, deselect the file box. As needed, select\nor deselect all of the files in the list, change the order of the files, remove files,\nor clear the list.\n*\nTo show the complete file paths, select\nExpand File Name(s)\n.\n*\nTo save the DWG list for later use, click",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save List",
+      "context": "Save List\n. This action saves the list in\nits current state, including the file order and file selections. You can retrieve\nthis list at any time by clicking",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Append List",
+      "context": "Append List\n.\n4.\nClick\nConvert\n.\n5.\nOnce the conversion has finished, you can click",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save Details",
+      "context": "Save Details\nto save a log file of the\nconversion.",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Application-specific PDFMaker settings",
+      "context": "Application-specific PDFMaker settings\nSometimes the conversion settings in one PDFMaker-enabled application are different from the\nsettings in a different application.\nSome PDFMaker settings are common to several or most applications. Some options are unique\nto a specific application.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Settings tab options available from within most applications",
+      "context": "Settings tab options available from within most applications\nThe following settings appear on the\nSettings\ntab available from within most PDFMaker-\nenabled applications.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Attach Source File",
+      "context": "Attach Source File\nIncludes the document being converted as an attachment to the PDF.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Create Bookmarks",
+      "context": "Create Bookmarks\nConverts certain elements in original Office documents to PDF bookmarks: Word headings,\nExcel worksheet names, or PowerPoint titles. Selecting this option overrides any settings on\nthe",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Conversion Settings",
+      "context": "Conversion Settings\ndialog box.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add Links",
+      "context": "Add Links\nIncludes active links and hypertext in the PDF.\nNote:\nIf this option is deselected, but the recipient of the PDF has the create Links From URLs\npreference selected, URLs in the PDF are still active.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enable Accessibility And Reflow With Tagged Adobe PDF",
+      "context": "Enable Accessibility And Reflow With Tagged Adobe PDF\nEmbeds tags in the PDF.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Excel-specific options on the Settings tab",
+      "context": "Excel-specific options on the Settings tab",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert Comments",
+      "context": "Convert Comments\nConverts user-created Excel comments to notes and lists them in the Acrobat",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Actual Size",
+      "context": "Actual Size\nUses actual size specified in the worksheet. Worksheets are not resized.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Fit Worksheet To A Single Page",
+      "context": "Fit Worksheet To A Single Page",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Fit To Paper Width",
+      "context": "Fit To Paper Width\nAdjusts the width of each worksheet so that all the columns on that worksheet appear on one\npage in the PDF.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Prompt For Selecting Excel Sheets",
+      "context": "Prompt For Selecting Excel Sheets\nOpens a dialog box at the beginning of the file conversion process. In this dialog box, you can\nspecify which worksheets are included in the PDF and the order in which the sheets appear in\nthe PDF.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PowerPoint-specific options on the Settings tab",
+      "context": "PowerPoint-specific options on the Settings tab",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Preserve Slide Transitions",
+      "context": "Preserve Slide Transitions\nConverts PowerPoint slide transition effects to PDF transition effects.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert Hidden Slides To PDF Pages",
+      "context": "Convert Hidden Slides To PDF Pages\nConverts any PowerPoint slides that are not seen in the usual playing of the presentation to\nPDF pages.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert Speaker Notes",
+      "context": "Convert Speaker Notes\nConverts any speaker notes for the PowerPoint presentation into Text notes in the PDF.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Email-specific options on the Settings tab",
+      "context": "Email-specific options on the Settings tab\nThe following options appear when you open the PDFMaker settings from within Microsoft\nOutlook or Lotus Notes.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Compatibility",
+      "context": "Compatibility\nSets the compatibility level of the PDF. Use the most recent version (in this case, version 1.7\nADBE-3) to include all the latest features and functionality. If you're creating PDFs that are\ndistributed widely, choose an earlier level to ensure that all users can view and print the\ndocument.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Attachments",
+      "context": "Attachments\nIndicates whether all files attached to email messages are included in the PDF.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Output Adobe PDF Portfolio When Creating A New PDF File",
+      "context": "Output Adobe PDF Portfolio When Creating A New PDF File\nWhen selected, always converts individual messages as component files of a",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PDF Portfolio",
+      "context": "PDF Portfolio\n.\nWhen deselected, merges individual messages as separate pages of a PDF.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Do Not Include Folder Name Information",
+      "context": "Do Not Include Folder Name Information\nWhen selected, excludes mail folder names from PDFs.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Embed Index For Faster Search",
+      "context": "Embed Index For Faster Search\nCreates an embedded index, which speeds up searches, especially when you convert large\nnumbers of email messages or message folders.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Block Download Of External Content",
+      "context": "Block Download Of External Content\nWhen selected, prevents the downloading of any external Internet content, such as images,\nCSS, and JavaScript.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Page Layout options",
+      "context": "Page Layout options\nSpecifies page properties, like the properties found in the Print dialog box: page dimensions,\norientation, and margins.\nShow This Number Of Recent Archives (Outlook only)\nWhen converting email messages and folders, the",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert Selected Folders",
+      "context": "Convert Selected Folders\n] menus can list recently created PDFs to append. This\noption specifies the maximum number of PDFs to list in the menus.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Show \"Attach As Adobe PDF\" Buttons",
+      "context": "Show \"Attach As Adobe PDF\" Buttons\nIf selected, the",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Attach As Adobe PDF",
+      "context": "Attach As Adobe PDF\nbutton appears in the Outlook email message window.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "AutoCAD-specific options on the Settings tab (Acrobat Pro)",
+      "context": "AutoCAD-specific options on the Settings tab (Acrobat Pro)\nThe following options appear when you open the PDFMaker settings from within Autodesk\nAutoCAD.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Compliance Standard",
+      "context": "Compliance Standard\nSpecify the PDF/A or PDF/E compliance standard, or none.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Open Layers Pane When Viewed In Acrobat",
+      "context": "Open Layers Pane When Viewed In Acrobat\nShows the layers structure when a PDF is opened in Acrobat.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Embed Scale Information",
+      "context": "Embed Scale Information\nPreserves drawing-scale information, which is usable with the Acrobat measurement tools.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Do Not Convert Model Space To 3D",
+      "context": "Do Not Convert Model Space To 3D\nWhen selected, the model space layout is not converted to a 3D annotation in the PDF.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Choose Layout Option",
+      "context": "Choose Layout Option\nSpecifies whether",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Selected Layouts",
+      "context": "Selected Layouts\nare included in the PDF.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Exclude Model Space",
+      "context": "Exclude Model Space\n(Available only when",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert All Layouts Without Prompting",
+      "context": "Convert All Layouts Without Prompting\nis selected from",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Choose Layout",
+      "context": "Choose Layout\nOption\n.) When selected, all layouts except the model space are included in the PDF.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Choose Layer Option",
+      "context": "Choose Layer Option\nSpecifies whether",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "No Layers",
+      "context": "No Layers\nare included as layers in the PDF.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Visio-specific options on the Settings tab (Acrobat Pro)",
+      "context": "Visio-specific options on the Settings tab (Acrobat Pro)\nThe following options appear when you open the PDFMaker settings from within Microsoft\nVisio.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Include Visio Custom Properties As Object Data In The Adobe PDF",
+      "context": "Include Visio Custom Properties As Object Data In The Adobe PDF\nIndicates whether custom properties of the Visio image are included as object data in the new\nPDF.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Exclude Visio Objects With No Custom Properties",
+      "context": "Exclude Visio Objects With No Custom Properties\nIndicates whether the new PDF excludes Visio objects without custom properties.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert Comments To Adobe PDF Comments",
+      "context": "Convert Comments To Adobe PDF Comments\nIndicates whether the comments in the Visio file are converted to PDF comments in the new\nPDF.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Always Flatten Layers In Adobe PDF",
+      "context": "Always Flatten Layers In Adobe PDF\nSpecifies if the layers are flattened. If you flatten layers, the PDF looks like the original drawing,\nbut doesn't contain any layer information. All shapes in the Visio drawing are converted,\nregardless of their protection or behavior, and shape custom properties can be converted to\nPDF object data.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Open Layers Pane When Viewed In Acrobat",
+      "context": "Open Layers Pane When Viewed In Acrobat\nShows the layers structure when a PDF is opened in Acrobat.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Word tab settings (Microsoft Word)",
+      "context": "Word tab settings (Microsoft Word)",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert Displayed Comments To Notes In Adobe PDF",
+      "context": "Convert Displayed Comments To Notes In Adobe PDF\nChanges any Word comment entries to PDF comments. If the currently open Word document\ncontains comments, more options appear in the",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Comments",
+      "context": "Comments\nlist on this tab:",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Reviewer",
+      "context": "Reviewer\nLists the names of reviewers who have entered comments in the current Word document.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Notes Open",
+      "context": "Notes Open\nSpecifies whether the PDF comment windows automatically open or are closed for that\nreviewer's comments.\nColor\nShows the color for that reviewer's comment icons. Clicking the color icon repeatedly cycles\nthrough a limited set of available colors.\n# Of Comments\nShows the number of comments that the reviewer made.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert Footnote And Endnote Links",
+      "context": "Convert Footnote And Endnote Links\nIntegrates these into the PDF.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert signature fields specified by pdfmarks",
+      "context": "Convert signature fields specified by pdfmarks\nConverts signature fields indicated by pdfmarks.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enable Advanced Tagging",
+      "context": "Enable Advanced Tagging\nIntegrates this into the PDF.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Bookmarks tab settings (Microsoft Word)",
+      "context": "Bookmarks tab settings (Microsoft Word)\nThe options you specify on this tab determine which items are converted into PDF bookmarks\nin the PDF.\nNote:\nTo include bookmarks in the conversion process, you must select the",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\noption on the\nSettings\ntab. If you deselect that option, you override any options you\nselect on this tab, and no bookmarks are created.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert Word Headings To Bookmarks",
+      "context": "Convert Word Headings To Bookmarks\nSelects all the headings in the",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Elements",
+      "context": "Elements\nlist for conversion to PDF bookmarks.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert Word Styles To Bookmarks",
+      "context": "Convert Word Styles To Bookmarks\nSelects all the text styles in the",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Elements",
+      "context": "Elements\nlist for conversion to PDF bookmarks (deselected by\ndefault).",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Convert Word Bookmarks",
+      "context": "Convert Word Bookmarks\nConverts any user-created Word bookmarks to PDF bookmarks.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Headings",
+      "context": "Headings\nand\nStyles\nindicate the element types.\nType\nAlso indicates whether the element is a heading or style in the Word document.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Bookmark",
+      "context": "Bookmark\nDisplays X's, indicating whether individual elements are converted to PDF bookmarks. Clicking\nan individual",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Bookmark",
+      "context": "Bookmark\noption changes the selection status for that element.\nLevel\nSpecifies where the element fits in the hierarchy structure of the PDF",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Bookmarks",
+      "context": "Bookmarks\npanel.\nClicking an individual\nLevel\nnumber opens a menu that you can use to change the value.\nNote:\nWhen some but not all of the available Word headings and styles are selected for conversion to\nPDF bookmarks, the marker in the corresponding check boxes at the top of the tab change. If all\nelements of the type are selected, a check mark appears. If only some of the elements of that\ntype are selected, a colored square appears. Otherwise, the check box is empty.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Create PDFs by printing to file",
+      "context": "Create PDFs by printing to file\nIn many authoring applications, you can use the Print command with the Adobe PDF printer to\nconvert your file to PDF. Your source document is converted to PostScript and fed directly to\nDistiller for conversion to PDF, without manually starting Distiller. The current Distiller\npreference settings and Adobe PDF settings are used to convert the file. If you're working with\nnonstandard page sizes, create a custom page size.\nNote:\n(Windows) For Microsoft Office documents, the",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nprinter does not include some of\nthe features that are available from PDFMaker. For example, you cannot create bookmarks and\nhyperlinks using the",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nprinter. If you're creating a PDF from a",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Microsoft",
+      "context": "Microsoft\nOffice\ndocument and you want to use these features, use PDFMaker.\nThe",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nprinter creates untagged PDFs. A tagged structure is required for reflowing\ncontent to a handheld device and is preferable for producing reliable results with a screen\nreader.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Create a PDF using the Print command (Windows)",
+      "context": "Create a PDF using the Print command (Windows)\n1.\nOpen the file in its authoring application, and choose File > Print.\n2.\nChoose",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nfrom the printers menu.\n3.\nClick the Properties (or Preferences) button to customize the",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nprinter\nsetting. (In some applications, you may need to click Setup in the Print dialog box to\nopen the list of printers, and then click Properties or Preferences.)\n4.\nIn the Print dialog box, click OK.\nNote:\nYour PDF is saved in the folder specified by the setting of the\nAdobe\nPDF\nOutput Folder in the Preferences dialog box; the default location is My\nDocuments. If you specify Prompt For Adobe PDF Filename, then a\nSave As\ndialog\nopens when you print.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Create a PDF using the Print command (Mac OS X)",
+      "context": "Create a PDF using the Print command (Mac OS X)\nThe method for creating PDFs using the Print command changed in\nMac OS\nv10.6\nSnow\nLeopard\nwith Acrobat 9.1 and later. The following procedure describes the method in both\nSnow Leopard and earlier versions of\nMac OS\nX.\n1.\nOpen the file in its authoring application, and choose File > Print.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save As Adobe PDF",
+      "context": "Save As Adobe PDF\nfrom the PDF menu at the bottom of the dialog box.\n3.\nFor",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nSettings, choose one of the default settings, or customize the settings\nusing Distiller. Any custom settings that you have defined are listed.\nFor most users, the default",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nconversion settings are adequate.\n4.\nFor After PDF Creation, specify whether to open the PDF.\n5.\nClick Continue.\n6.\nSelect a name and location for your PDF, and click Save.\nNote:\nBy default, your PDF is saved with the same filename and a .pdf extension.",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF printing preferences (Windows)",
+      "context": "Adobe PDF printing preferences (Windows)\nPrinting preferences apply to all applications that use the",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nprinter, unless you change\nthe settings in an authoring application by using the",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Document Setup",
+      "context": "Document Setup\n, or Print\nmenu.\nNote:\nThe dialog box for setting printing preferences is named",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDFPrinting Preferences",
+      "context": "Adobe PDFPrinting Preferences\n,\nAdobe PDF Printing Defaults, or",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDFDocument Properties",
+      "context": "Adobe PDFDocument Properties\n, depending on how you\naccess it.\nTo access printing preferences:\n*\nOpen the Printers window from the Start menu. Right-click the",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nprinter, and\nchoose",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Printing Preferences",
+      "context": "Printing Preferences\n.\n*\nIn an authoring application such as Adobe InDesign, choose File > Print. Select\nAdobe\nPDF\nas the printer, and click the Properties (or Preferences) button. (In some\napplications, you may need to click Setup in the Print dialog box to access the list of\nprinters, and then click Properties or Preferences to customize the",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nsettings.)\nPDF-specific options appear on the",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nSettings tab. The",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Paper Quality",
+      "context": "Paper Quality\ntab and Layout\ntab contain other familiar options for the paper source, printer ink, page orientation, and\nnumber of pages per sheet.",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDFConversion Settings",
+      "context": "Adobe PDFConversion Settings\nSelect a predefined set of options from the",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Default Settings",
+      "context": "Default Settings\nmenu or click Edit to view or\nchange the settings in the",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nSettings dialog box.",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF Security",
+      "context": "Adobe PDF Security\nTo add security to the PDF, choose one of the following options, or click Edit to view or change\nthe security settings:\n*",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Reconfirm Security For Each Job",
+      "context": "Reconfirm Security For Each Job\n: Opens the Adobe PDF Security dialog box each time\nyou create a PDF using the Adobe PDF printer. Specify the desired settings in the dialog\nbox.\n*\nUse The Last Known Security Settings:\nUses the same security settings that were used\nthe last time a PDF was created using the Adobe PDF printer on your computer.",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF Output Folder",
+      "context": "Adobe PDF Output Folder",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nFilename to specify a location and filename at the time\nof conversion.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF Page Size menu",
+      "context": "Adobe PDF Page Size menu\nSelect a custom page size that you have defined.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Replace Existing PDF",
+      "context": "Replace Existing PDF\nChoose if you want to replace the existing PDF\nAlways\n,\nAsk Everytime,\nor\nNever\nreplace.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "View Adobe PDF Results",
+      "context": "View Adobe PDF Results\nAutomatically starts Acrobat and displays the converted document immediately.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add Document Information",
+      "context": "Add Document Information\nIncludes information such as the filename and date and time of creation.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Rely On System Fonts Only; Do Not Use Document Fonts",
+      "context": "Rely On System Fonts Only; Do Not Use Document Fonts\nDeselect this option to download fonts when creating the PDF. All your fonts will be available in\nthe PDF, but it will take longer to create it. Leave this option selected if you are working with\nAsian-language documents.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Delete Log Files For Successful Jobs",
+      "context": "Delete Log Files For Successful Jobs\nAutomatically deletes the log files unless the job fails.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set Adobe PDF printer properties (Windows)",
+      "context": "Set Adobe PDF printer properties (Windows)",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "In Windows",
+      "context": "In Windows\n, you can usually leave the",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nprinter properties unchanged, unless you\nhave configured printer sharing or set security.\nNote:\nPrinting Properties are different from printer Preferences. The Properties dialog box contains\ntabs of options that apply to any type of printer; the Preferences include conversion options\nspecifically for the",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set Adobe PDF printer properties",
+      "context": "Set Adobe PDF printer properties\n1.\nOpen",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Devices and Printers",
+      "context": "Devices and Printers\nfrom the Start menu, and right-click the\nAdobe\nPDF\nprinter.\n2.\nChoose Properties.\n3.\nClick the tabs, and select options as needed.",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Reassign the port that the Adobe PDF printer uses",
+      "context": "Reassign the port that the Adobe PDF printer uses\n1.\nQuit Distiller if it is running, and allow all queued jobs to the",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nprinter to\ncomplete.\n2.\nOpen",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Devices and Printers",
+      "context": "Devices and Printers\nfrom the Start menu.\n3.\nRight-click the",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nprinter, and choose",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Printer Properties",
+      "context": "Printer Properties\n.\n4.\nClick the Ports tab, and then click Add Port.\n5.\nSelect",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nPort (Windows XP) or",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nPort Monitor (Vista/Windows 7)\nfrom the list of available port types, and click New Port.\n6.\nSelect a local folder for PDF output files, and click OK. Then click Close to quit the\nPrinter Ports dialog box.\n7.\nIn the",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nProperties dialog box, click Apply, and then click OK.\nNote:\nFor best results, select a folder on the same system where Distiller is installed.\nAlthough remote or network folders are supported, they have limited user access and\nsecurity issues.",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Delete a folder and reassign the Adobe PDF printer to the default port",
+      "context": "Delete a folder and reassign the Adobe PDF printer to the default port",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Devices and Printers",
+      "context": "Devices and Printers\nfrom the Start menu.\n3.\nRight-click the",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adobe PDF",
+      "context": "Adobe PDF\nprinter, and choose",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Printer Properties",
+      "context": "Printer Properties\n.\n4.\nClick the Ports tab.\n5.\nSelect the default port, Documents, and click Apply.\n6.\nSelect the port to delete, click Delete Port, and then click OK to confirm the deletion.\n7.\nSelect the Documents port again and click Close.",
+      "page_number": 18,
+      "section_type": "heading_section"
+    }
+  ]
+}

@@ -1,0 +1,706 @@
+{
+  "document_info": {
+    "filename": "Learn Acrobat - Request e-signatures_1.pdf",
+    "title": "Learn Acrobat - Request e-signatures_1",
+    "extraction_timestamp": "2025-07-28T13:24:05.898682",
+    "total_sections": 116
+  },
+  "sections": [
+    {
+      "title": "Send a document to get signatures from",
+      "context": "Send a document to get signatures from\nothers\n1.\nOpen the PDF form in Acrobat or Acrobat Reader, and then choose\nAll\ntools\n>",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Request E-signatures",
+      "context": "Request E-signatures\n. Alternatively, you can select\nSign\nfrom the top toolbar.\n2.\nThe Request Signatures window is displayed. It displays the fields progressively as you\nenter the details. The left pane provides information on getting signatures from others\nworkflow. In the recipients field, add recipient email addresses in the order you want\nthe document to be signed.\nRequest signatures - Add recipients\n3.\nThe Mail and Message fields are just like the ones you use for sending an email and\nappear to your recipients in the same way. Change the default text in the Subject\n& Message area as appropriate.\nOptional: If you want to add more people just for information, use the Add CC button\nto add their email addresses to the CC list.\nEnter the desired information and do one of the following:",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "More Options",
+      "context": "More Options\n.\n*\nTo add form fields and specify where to sign, click",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Specify where to sign",
+      "context": "Specify where to sign\n.\nRequest signatures - Add Cc, subject, message, More Options\n*\nIf you don't want to use the",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "More Options",
+      "context": "More Options\n, skip the next optional step.\n4.\n(Optional) Click",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "More Options",
+      "context": "More Options\n, if you want to specify advanced options, such as signer\nauthentication, reminders, and more.\n*\nBy default, the",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Complete in Order",
+      "context": "Complete in Order\nsetting is turned on. The numbers by the\nemail addresses reflect the participation order. If you do not want to follow any\nparticular order for signing, toggle the switch to",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Complete In Any Order",
+      "context": "Complete In Any Order\n.\n(Optional) Click\nAdd Me,\nif you want to be included as a signer of the\ndocument.\n*\nSpecify authentication type like\nEmail\n,",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Based Authentication",
+      "context": "Based Authentication\n,\nPhone,\nor",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Password Protect",
+      "context": "Password Protect\nthe PDF file.\n*\nSet a",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Completion Deadline",
+      "context": "Completion Deadline\n.\n*\nSpecify the",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Recipient's Language",
+      "context": "Recipient's Language\nin the email sent.",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Simplified mode for single signer",
+      "context": "Simplified mode for single signer\nIf you've added one signer, the Advanced Editing mode is off, and you see the\nsimplified option as shown below. To place a signature or another field, click at the\ndesired location in the document and then set the field's properties from its context\nmenu.",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Simplified mode for multiple signers",
+      "context": "Simplified mode for multiple signers\nThis mode provides simplified authoring with the capability of assigning fields to\nmultiple signers. When you select a signer from the right pane and add fields in the\nform, the fields are assigned to the signer. That means those fields will be available to\nthe signer for filling the information and signing the form.",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Advanced mode for multiple signers",
+      "context": "Advanced mode for multiple signers\nIf you've added multiple signers, you see the options as shown below. Click\nthe\nbutton to place the detected form fields in the PDF document. Alternatively,\ndrag fields from the tabs in the right pane and drop the fields where desired in the\ndocument.\nNote:\nYou can switch between simplified mode and advanced mode for multiple signers.\nTo switch mode, turn off the",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Advanced Editing",
+      "context": "Advanced Editing\nswitch in the right-pane.\n6.\nWhen you've placed all desired fields in the document, click\nSend\n. The document is\nsent for signature to the recipients and a confirmation notice is displayed.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Click to sign",
+      "context": "Click to sign\nbutton, the agreement is sent to the next signer with a link to sign, and so\non. Once the agreement is signed by all the signers, everyone gets a copy of the signed\nagreement.\nAll your signed documents are kept at one place and you can access them from anywhere.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Signer's experience",
+      "context": "Signer's experience\nA signer receives an email with a link to sign the agreement. Also, if the signer uses Acrobat or\nAcrobat Reader desktop application, the signer sees a notification that an agreement has\nbeen shared for signing.\nNote:\nSigners are not required to sign up or purchase any Adobe product to sign agreements.\nThey can sign agreements using a web browser, mobile device, or Acrobat / Acrobat Reader\ndesktop application.\nSend in bulk\nallows you to upload a form and use that as a template to create and send many\n(hundreds!) of unique agreements, each dedicated to one external signer. Each agreement is\ninsulated from the others and contains its own audit report. Each recipient is unaware of all\nother recipients.\nThe sender has access to the agreements through their Home or Documents tab or through\nthe\nSend in bulk\ntemplate, which contains an Agreements report that tracks the overall status\nof the child agreements created from the template. Additionally, the sender can export the\nfield-level data of all completed agreements in a CSV format using the Download Form Field\nData action.\nTo access the Send in bulk feature, do one of the following:\n*\nIn the Acrobat desktop app, go to the\nTools\ncenter\n,\nscroll down to the\nE-Sign\nsection,\nand then select",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Send in bulk",
+      "context": "Send in bulk\n.\n*\nSign in to\nAcrobat online\n, select the\nE-Sign\nmenu in the top navigation bar, and then\nselect",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Steps to send in bulk",
+      "context": "Steps to send in bulk\n1.\nSelect the",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Send in Bulk",
+      "context": "Send in Bulk\ntool as explained earlier. The Send in bulk file upload page\nis displayed.\n2.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add a file",
+      "context": "Add a file\n:\nUpload (by search or drag-and-drop) the primary file that you are using to build\nyour agreement template.\nThe selector on the right of the\nSelect a file\nbutton allows you to choose from the\nsource where the file resides. The default is your local system.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add participants",
+      "context": "Add participants\n:\n1. List the participants required.\n*\nThe\nSign\naction is assigned by default.\n*\nThe\nSign\naction allows the participant to enter field data and sign the\nagreement.\n*\nUp to 50 participants are supported.\n*\nEach participant listed receives their own agreement.\n2. Enter recipient email addresses followed by commas, or copy and paste a list of\nemail addresses into the Email field.\n3. Configure participant authentication by clicking the key icon to the right of the\nparticipant.\n*\nEmail\nis the default authentication method for confirming the identity of each\nparticipant and is sufficient to obtain a legal signature in most cases.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Password",
+      "context": "Password\nauthentication can be added to increase security. When configured, the participant\nmust enter the password before they can interact with the agreement.\n4.\n. (Optional) Add yourself and/or CC'd parties\n*\nClick\nAdd me\nto add yourself as a counter signer.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Edit the Agreement settings",
+      "context": "Edit the Agreement settings\n(Optional):\nBy default, agreements do not require a password to view the completed agreement,\nnor do they have reminders set for participants\n*\nSelect",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add access password",
+      "context": "Add access password\nif you require recipients to enter a password to\nopen and view the signed PDF file.\n*\nSelect",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set Reminder",
+      "context": "Set Reminder\nto set the frequency of reminders to be sent until the\nagreement is completed.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Signature",
+      "context": "Signature\nfield must be placed for each signer (including internal counter-singers).\nThere are two methods to apply fields:\n1.\nSimple Authoring\nis loaded by default in most instances. Simple authoring:\n*\nIs limited to the most common types of fields:\n*\nText input (All Text fields are flagged as Required)\n*\nSignature\n*\nSigner's name (Printed)\n*\nSigner's email\n*\nSignature date (Read-Only; Supplied by the system)\n*\nCheckbox\n*\nPlaces fields anywhere you click on the document.\n*\nAllows resizing of fields by clicking the bottom right corner of the field (blue\ntriangle) and dragging the field to size.\n2.\nAdvanced Authoring\ncan be enabled by selecting the toggle in the upper right corner.\nAdvanced authoring:\n*\nAllows access to\nall field types\n(highlighted in yellow)\n*\nSupports\nform field detection\n(highlighted in green)\n*\nSupports\nPrefill\nfields\n(highlighted in pink)\n*\nSupports\nfield assignment\n(highlighted in purple and pink)\n*\nSupports\nfield validation",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Advanced",
+      "context": "Advanced\nediting (on||off)\ntoggle in the upper-right corner.\n10.\nSelect\nNext\n(in the top-right corner) after all the fields have been placed.\n11.",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Review and Send",
+      "context": "Review and Send\nReview the agreement information and\nSend\nif everything is correct",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Confirmation",
+      "context": "Confirmation\nA confirmation message is shown verifying the agreement has been sent successfully.\nThere are three options to progress from the post-sending page:\n*",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Manage agreements",
+      "context": "Manage agreements\n-\nOpens the\nBulk Sends\npage with all your agreements: track\nstatus, access audit trails, send reminder\n*",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Send another document in bulk",
+      "context": "Send another document in bulk\n- Prepare another document to send to many people\n*\nClick\nClose\nto return to the Acrobat online Home page",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Manage your bulk sends",
+      "context": "Manage your bulk sends\nBulk sends can be managed from your\nDocuments\ntab.\n1.\nNavigate to the",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Documents",
+      "context": "Documents\ntab.\n2.\nSelect",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Bulk Sends",
+      "context": "Bulk Sends\nin the list of\nYour documents\non the left side of the window.\n3.\nSingle-click the Bulk Send you to want to access, opening the context menu on the\nright side of the window. The context menu on the right side contains five distinct\nsections:\n*",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Metadata",
+      "context": "Metadata\n(red square): At the top of the menu is the metadata for the Bulk Send\ntemplate:\n*\nImage of the Bulk Sends' first page\n*\nThe title of the Bulk Send\n*\nThe date the Bulk Send was sent to the participants\n*\nThe email value of the userID that created the Bulk Send\n*\nThe current status of the whole Bulk Send\n*\nThe\nMessage\nprovided in the initial email",
+      "page_number": 17,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Actions menu",
+      "context": "Actions menu\n(blue square) - This section contains all of the actions you can take\nregarding the Bulk Send (parent template). Click the",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "See More",
+      "context": "See More\nlink at the bottom right\nof the section to see all values:\n*",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Open Bulk Send",
+      "context": "Open Bulk Send\n- Opens the Bulk Send template document for viewing only. No fields\nare available\n*",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Reminders",
+      "context": "Reminders\n- Add a reminder for yourself or everyone else who still needs to sign.\n*\nCancel:\nCancel the Bulk Send.\n*",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Download PDF",
+      "context": "Download PDF\n- Downloads the whole (blank) PDF.",
+      "page_number": 18,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Download Form Field Data",
+      "context": "Download Form Field Data\n- Downloads a CSV file of the field-level content for all\nchild agreements spawned from this parent Bulk Send that have been completed.\n*",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Download Individual Files",
+      "context": "Download Individual Files\n- Provides the option to download the individual PDF files\nif multiple files were used to create the web form.\n*\nHide/Unhide Bulk Send\n- Hide/Unhiding the Bulk Send simply removes (or adds) the\nBulk Send from your normal Manage page view.\n*\nShare\n- Shares the Bulk Send along with its status with the user email you provide.\nShared web forms can be viewed on the Manage page, but do not allow editing.\n*\nA PDF copy of the Bulk Send parent document (without added fields) is emailed to the\nsharee.\n*",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "View Activity Report",
+      "context": "View Activity Report\n*\nView the current status of all child agreements created by the Bulk Send parent\ntemplate.\n*",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add Notes",
+      "context": "Add Notes\n- Allows the user to make personal notes for the Bulk Send.\n*\nAgreements summary/filter\n(green square) - The\nAgreements\nsection shows up to five\nvalues that reflect the number of child agreements in each status. If no child\nagreements are in a given status, the status is not exposed, so you may see fewer than\nfive line items. Clicking any one status will produce a filter list of those child\nagreements:\n*\nAll\n- Shows all (child) agreements that have spawned from the Bulk Send (parent\ntemplate).\n*",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "In Progress",
+      "context": "In Progress\n- Indicates that the child agreement is waiting for the participant to\ncomplete their signature.\n*",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Canceled -",
+      "context": "Canceled -\nIndicates that either the sender explicitly canceled the child agreement, or\nthe participant declined to sign.\n*",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Completed",
+      "context": "Completed\n- Completed agreements have successfully obtained all signatures from all\nparticipants on the agreement.\n*",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Waiting for You",
+      "context": "Waiting for You\n- Indicates that the agreement is waiting for the sender to countersign\nthe agreement.\n*",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Activity",
+      "context": "Activity\nfor the Bulk Send parent template (orange square) - The",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Activity >",
+      "context": "Activity >\nlink at the\nbottom of the context panel opens a chronological list of the enablement actions\ntaken against the (parent) Bulk Send template (eg:\nCreation\n,\nCompleted\nevents).\nAdobe Acrobat supports a\nrange of solutions\nfor electronic and\ndigital signatures\n. These\nsolutions include certificate signatures that let you sign PDF files with a certificate-based\ndigital ID. Certificate signatures are also known as digital signatures. Acrobat lets you create\nyour certificate ID. However, the common approach is to work with a certificate ID from a\ntrusted third-party certificate authority. Additional signing options in Acrobat include\nintegration with\nAdobe Acrobat Sign\n.",
+      "page_number": 19,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Why use certificate signatures?",
+      "context": "Why use certificate signatures?\nMany business transactions, including financial, legal, and other regulated transactions,\nrequire high assurance when signing documents. When documents are distributed\nelectronically, it's important that recipients can:\n*\nVerify document authenticity--confirming the identity of each person who signed the\ndocument\n*\nVerify document integrity--confirming that the document has not been altered in\ntransit\nCertificate-based signatures provide both of these security services. Many businesses and\ngovernments have chosen to set up a certificate-based digital signature infrastructure within\ntheir organization. They use third-party certificate authorities to provide independent identity\nvalidation. Examples include:\nFor instance, companies in the European Union who need to comply with advanced or\nqualified electronic signature requirements in\neIDAS e-signature regulation\nor the\nETSI PAdES\nstandard\n(PDF Advanced Electronic Signatures).",
+      "page_number": 20,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "What can I do with certificate IDs?",
+      "context": "What can I do with certificate IDs?\nOnce certificate-based digital IDs have been provided to end users, they can\nuse\nAcrobat\nor\nAcrobat Reader\nsoftware to sign PDF files and validate files they receive from\nothers.",
+      "page_number": 20,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Sign documents",
+      "context": "Sign documents\n*\nSign PDF files using certificate IDs\n*\nPlace a signature box anywhere on the page\n*\nAdd multiple signatures to a page\n*\nAdd a time stamp to the document when working with a configured timestamp server\n*\nCertify a document with a visible or hidden signature so that recipients can verify\nauthenticity with or without seeing a visible signature on the page\n*\nAutomatically embed certificate data to support long-term validation",
+      "page_number": 20,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Validate documents",
+      "context": "Validate documents\n*\nValidate all signatures, confirming the identity of everyone who signed the document\n*\nValidate document integrity by tracking all previously signed versions of a document\nto verify changes made during the document's lifecycle",
+      "page_number": 20,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set privileges and permissions for others",
+      "context": "Set privileges and permissions for others\n*\nCertify a document while leaving portions of it available for\nform filling\n, signatures, or\ncomments\n*\nUse Acrobat Pro software to enable users of Reader 9 or later to sign with certificate\nIDs\n*\nUse Acrobat Standard or Pro to encrypt a PDF document with a certificate ID to restrict\nusage such as printing, editing, or copying",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "What if my organization isn't prepared to set up certificate-",
+      "context": "What if my organization isn't prepared to set up certificate-",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "based signatures?",
+      "context": "based signatures?\nConsider signing up for\nAdobe Acrobat Sign\nonline, the leader in\ne-signatures\nand web\ncontracting. With Acrobat Sign, you can get PDF, Microsoft Word, and other documents sent,\nsigned, and filed instantly. And best of all, Adobe hosts it securely, so your IT department\ndoesn't have to do the work of setting up a signature infrastructure.",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Resources",
+      "context": "Resources\nAdobe Approved Trust List (AATL)\n: The Adobe Approved Trust List is a program that allows\nmillions of users worldwide to create digital signatures that are trusted whenever the signed\ndocument is opened in Acrobat or Reader software. Check out the\ncurrent members\n.\nAdobe Security and Privacy Portal\n: A good first stop for all things security and privacy at\nAdobe.\nCertified Document Services\n: Certified Document Services (CDS) was the predecessor to the\nAATL.\nContent Security Library\n: Extensive documentation on Adobe certificate signature\nadministration.\nManaging Digital IDs\n: Help pages for digital ID management.\nA\ncertificate-based signature\n, like a conventional handwritten signature, identifies the person\nsigning a document. Unlike a handwritten signature, a certificate-based signature is difficult to\nforge because it contains encrypted information that is unique to the signer. It can be easily\nverified and informs recipients whether the document was modified after the signer initially\nsigned it.\nTo sign a document with a certificate-based signature, you must obtain a digital ID or create a\nself-signed digital ID in Acrobat or",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Acrobat Reader",
+      "context": "Acrobat Reader\n. The digital ID contains a private key and a\ncertificate with a public key, and more. The private key is used to create the certificate-based",
+      "page_number": 21,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Steps to add a certificate-based signature to a PDF",
+      "context": "Steps to add a certificate-based signature to a PDF\n1.\nOpen a PDF in Acrobat and choose",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Use a certificate",
+      "context": "Use a certificate\nin the\nglobal bar.\nAlternatively, from Acrobat Home, select",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "See all tools",
+      "context": "See all tools\n. In the Protect section,\nselect",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Use a certificate",
+      "context": "Use a certificate\n, and then",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "select a file",
+      "context": "select a file\nyou want to certify.\n2.\nThe",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Use a certificate",
+      "context": "Use a certificate\ntool is open on the left pane.\n*\nSelect\nCertify (visible signatures)\nto certify with a visible digital signature,\nand then select",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Drag New Signature Rectangle",
+      "context": "Drag New Signature Rectangle\nin the dialog box that\nappears.\n*\nSelect\nCertify (invisible signatures)\nif you want to certify the document\nwithout a visible signature.\n3.\nSelect\nOK\nin the Save as Certified Document dialog box.",
+      "page_number": 22,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Configure New Digital ID",
+      "context": "Configure New Digital ID\nto\ncreate a new ID.\n6.\nSelect\nReview\nto review the document content before signing, then select\nSign.\nSave\nthe PDF when prompted. Your document is now certified.",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Certifying and signing documents",
+      "context": "Certifying and signing documents\nThe",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Use a certificate",
+      "context": "Use a certificate\ntool lets you apply two types of certificate-based signatures. You\ncan\nCertify\na document, attest to its content or approve a document with the",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Digitally",
+      "context": "Digitally\nsign\noption.",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Digitally sign",
+      "context": "Digitally sign\nWhen you",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Digitally sign",
+      "context": "Digitally sign\nwith a certificate, the signature is considered an approval signature.\nCertify (visible or invisible signatures)",
+      "page_number": 23,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Digitally sign",
+      "context": "Digitally sign\n. For documents\nthat require certification, you must certify the documents before others sign them. If a\ndocument has already been signed, the Certify options are disabled. When you certify a\ndocument, you can control the types of changes other people can make. You can certify with\nor without displaying a signature.\nSignatures made with the\nCertify\nor",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Digitally sign",
+      "context": "Digitally sign\noptions\ncomply with data protection\nstandards specified by the",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "European Telecommunications Standards Institute",
+      "context": "European Telecommunications Standards Institute\n(ETSI). In\naddition, both signature types comply with the PDF Advanced Electronic Signature (PAdES)\nstandard. Acrobat and Acrobat Reader provide an option to change the default signing format\nto a CAdES format. This option is compliant with Part 3 of the PAdES standard. The timestamp\ncapability and native support for long-term validation of signatures (introduced in Acrobat\n9.1) is in compliance with Part 4 of the PAdES standard. The default signing format, when set\nup accordingly, is compliant with Part 2 of the PAdES standard. You can change the default\nsigning method or format, in the Signatures panel of the Preferences dialog box. Under\nCreation & Appearance, click More.",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Setting up certificate-based signatures",
+      "context": "Setting up certificate-based signatures\nYou can expedite the signing process and optimize your results by making the following\npreparations in advance.\nNote:\nSome situations require using particular digital IDs for signing. For example, a corporation or\ngovernment agency can require individuals to use only digital IDs issued by that agency to\nsign official documents.\nInquire about the digital signature policies\nof your organization to\ndetermine the appropriate source of your digital ID.\n*\nGet a digital ID from your own organization, buy a digital ID (see the Adobe website\nfor security partners), or create a self-signed one. See\nCreate a self-signed digital ID\n.\nYou can't apply a certificate-based signature without a digital id.\n*\nSet the default signing method.\n*\nCreate an appearance for your certificate-based signature. (See\nCreate the signature\nappearance.\n)\n*\nUse\nthe",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Preview Document",
+      "context": "Preview Document\nmode to suppress any dynamic content that can alter the\nappearance of the document and mislead you into signing an unsuitable document.\nFor information about using the",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Preview Document",
+      "context": "Preview Document\nmode, see\nSign in Preview\nDocument mode\n.\n*\nReview all the pages in a document before you sign. Documents can contain signature\nfields on multiple pages.\n*\nConfigure the signing application. Both authors and signers should configure their\napplication environment. (See\nSet signing preferences\n).",
+      "page_number": 24,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set signing preferences",
+      "context": "Set signing preferences\nSigning workflow preferences control what you can see and do when the signing dialog box\nopens. You can allow certain actions, hide and display data fields, and change how content\naffects the signing process. Setting signing preferences impacts your ability to see what you\nare signing. For information on the available signing preferences, see \"",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Signing Workflow",
+      "context": "Signing Workflow\nPreferences\n\" in the",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Digital Signature",
+      "context": "Digital Signature\nGuide\n.",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Customizing signature workflows using seed values",
+      "context": "Customizing signature workflows using seed values\nSeed values\noffer additional control to document authors by letting them specify which\nchoices signers can make when signing a document. By applying seed values to signature\nfields in unsigned PDFs, authors can customize options and automate tasks. They can also\nspecify signature requirements for items such as certificates and timestamp servers. For more\ninformation about customizing signatures using seed values, see the\nDigital Signature Guide\n.",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Create the appearance of a certificate-based signature",
+      "context": "Create the appearance of a certificate-based signature\nYou determine the look of your certificate-based signature by selecting options in the\nSignatures panel of the Preferences dialog box. For example, you can include an image of\nyour handwritten signature, a company logo, or a photograph. You can also create different\nsignatures for different purposes. For some, you can provide a greater level of detail.\nA signature can also include information that helps others verify your signature , such as\nthe reason for signing, contact information, and more.\n1.\n(Optional) If you want to include an image of your handwritten signature in the\ncertificate-based signature, scan your signature, and save it as an image file. Place\nthe image in a document by itself, and convert the document to PDF.\n2.\nRight-click the signature field, and select",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Signature",
+      "context": "Signature\n.\nNote:\nYou can also create an appearance using the Signature preferences:\nHamburger menu\n> Preferences > Signatures (Windows) or Acrobat >\nPreferences > Signatures (macOS).",
+      "page_number": 25,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Create New Appearance",
+      "context": "Create New Appearance\n.\n4.\nIn the Configure Signature Appearance dialog box, type a name for the signature\nyou're creating. When you sign, you select the signature by this name. Therefore,\nuse a short, descriptive title.\n5.\nFor Configure Graphic, choose an option:",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "No Graphic",
+      "context": "No Graphic\nDisplays only the default icon and other information specified in the Configure Text\nsection.",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Imported Graphic",
+      "context": "Imported Graphic\nDisplays an image with your certificate-based signature. Select this option to include\nan image of your handwritten signature. To import the image file, select File, select\nBrowse and then select the image file.\nName\nDisplays only the default signature icon and your name as it appears in your digital\nID file.\n6.\nFor Configure Text, select the options that you want to appear in the signature.\nDistinguished Name shows the user attributes defined in your digital ID, including\nyour name, organization, and country.\n7.\nFor Text Properties, specify the writing direction and type of digits used, and then\nclick\nOK\n. See also\nEnable right-to-left languages\n.\n8.\n(Optional) If the dialog box includes the Additional Signature Information section,\nspecify the reason for signing the document, the location, and your contact\ninformation. These options are available only if you set them as your preferences in\nthe Creation and Appearance Preferences dialog box (Preferences > Signatures >\nCreation & Appearance > More).",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set up a roaming ID account",
+      "context": "Set up a roaming ID account\nA\nroaming ID\nis a digital ID that is stored on a server and can be accessed by the subscriber.\nYou must have an Internet connection to access a roaming ID and an account from an\norganization that supplies roaming digital IDs.\n1.\nOpen the Preferences dialog box.",
+      "page_number": 26,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Identities & Trusted Certificates",
+      "context": "Identities & Trusted Certificates\n, select\nMore\n.\n4.\nExpand",
+      "page_number": 27,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Digital IDs",
+      "context": "Digital IDs\non the left, select",
+      "page_number": 27,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Roaming ID Accounts",
+      "context": "Roaming ID Accounts\n, and select\nAdd\nAccount\n.\n5.\nType the name and URL for the roaming ID server, and select\nNext\n.\n6.\nType your user name and password, or follow the directions to create an account.\nSelect\nNext\n, and then select\nFinish\n.\nOnce the roaming ID is added, it can be used for signing or encryption. When you perform a\ntask that uses your roaming ID, you're automatically logged in to the roaming ID server if your\nauthentication assertion hasn't expired.",
+      "page_number": 27,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PKCS#12 modules and tokens",
+      "context": "PKCS#12 modules and tokens\nYou can have multiple digital IDs that you use for different purposes, particularly if you sign\ndocuments in different roles or using different certification methods.",
+      "page_number": 27,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Digital IDs",
+      "context": "Digital IDs\nare usually\npassword protected. They can be stored on your computer in PKCS #12 file format.\nDigital\nIDs\ncan also be stored on a smart card, hardware token, or in the Windows certificate store.\nRoaming IDs can be stored on a server. Acrobat includes a default signature handler that can\naccess digital IDs from various locations. Register the digital ID in Acrobat for it to be available\nfor use.",
+      "page_number": 27,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Store certificates on directory servers",
+      "context": "Store certificates on directory servers\nDirectory servers are commonly used as centralized repositories of identities within an\norganization. The server acts as an ideal location to store user certificates in enterprises that\nuse certificate encryption. Directory servers let you locate certificates from network servers,\nincluding",
+      "page_number": 27,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Lightweight Directory Access Protocol",
+      "context": "Lightweight Directory Access Protocol\n(LDAP) servers. After you locate a\ncertificate, you can add it to your list of trusted identities so that you don't have to look it up\nagain. By developing a storage area for trusted certificates, you or a member of your\nworkgroup can facilitate the use of encryption in the workgroup.\nFor more information about directory servers, see the\nDigital Signature Guide\n.",
+      "page_number": 27,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Import directory server settings (Windows only)",
+      "context": "Import directory server settings (Windows only)\nYou import directory server settings using security import/export methodology or a security\nsettings file. Before, you import settings in a file using import/export methodology, ensure\nthat you trust the file provider before opening it.",
+      "page_number": 27,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Document Timestamping",
+      "context": "Document Timestamping\n, select\nMore\n.\n4.\nSelect",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Directory Servers",
+      "context": "Directory Servers\non the left, and then select\nImport\n.\n5.\nSelect the import/export methodology file and select\nOpen\n.\n6.\nSelect the Signature Properties button to check the current signature status if the file\nis signed.\n7.\nSelect",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Import Search Directory Settings",
+      "context": "Import Search Directory Settings\n.\n8.\nSelect\nOK\n, if prompted to confirm your choice.\nThe directory server appears in the",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Security Settings",
+      "context": "Security Settings\ndialog box.",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export directory server settings (Windows only)",
+      "context": "Export directory server settings (Windows only)\nAlthough it is preferable to export security settings, you can export directory settings as an\nimport/export methodology file. Use the file to configure the directory server on another\ncomputer.\n1.\nOpen the\nPreferences\ndialog box.\n2.\nUnder",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Identity",
+      "context": "Identity\n.\n3.\nEnter your name, organization, and email address to create your profile.\n4.\nUnder",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Document Timestamping",
+      "context": "Document Timestamping\n, select\nMore\n.\n6.\nSelect",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Directory Servers",
+      "context": "Directory Servers\non the left, and then select one or more servers on the\nright.\n7.\nSelect\nExport\n, select a destination, and then select\nNext\n.\n8.\nTo prove that the file came from you, select\nSign\n, add your signature, and then\nselect\nNext\n.\n9.\nDo one of the following:\n*\nTo save the file, specify its name and location, and select\nSave\n.\n*\nTo send the file as an attachment, type an email address in the To box,\nselect\nNext\n, and then select\nFinish\n.",
+      "page_number": 28,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add a timestamp to certificate-based signatures",
+      "context": "Add a timestamp to certificate-based signatures\nYou can include the date and time you signed the document as part of your certificate-based\nsignature. Timestamps are easier to verify when they are associated with a trusted timestamp\nauthority certificate. A timestamp helps to establish when you signed the document and\nreduces the chances of an invalid signature. You can obtain a timestamp from a third-party\ntimestamp authority or the certificate authority that issued your digital ID.\nTimestamps appear in the signature field and in the",
+      "page_number": 29,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Signature Properties",
+      "context": "Signature Properties\ndialog box. If a\ntimestamp server is configured, the timestamp appears in the Date/Time tab of the",
+      "page_number": 29,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Properties",
+      "context": "Properties\ndialog box. If no timestamp server is configured, the signatures field displays the\nlocal time of the computer at the moment of signing.\nNote:\nIf you did not embed a timestamp when you signed the document, you can add one\nlater to your signature. (See\nEstablish long-term signature validation\n.) A timestamp applied\nafter signing a document uses the time provided by the timestamp server.",
+      "page_number": 29,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Configure a timestamp server",
+      "context": "Configure a timestamp server\nTo configure a timestamp server, you need the server name and the URL, which you can\nobtain from an administrator or a security settings file.\nIf you have a security settings file, install it and don't use the following instructions for\nconfiguring a server. Ensure that you obtained the security settings file from a trusted source.\nDon't install it without checking with your system administration or IT department.\n1.\nOpen the\nPreferences\ndialog box.\n2.\nUnder",
+      "page_number": 29,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Document Timestamping",
+      "context": "Document Timestamping\n, click\nMore\n.\n4.\nSelect",
+      "page_number": 29,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Time Stamp Servers",
+      "context": "Time Stamp Servers\non the left.\n5.\nDo one of the following:\n*\nIf you have an import/export methodology file with the timestamp server\nsettings, click the\nImport\nbutton\n. Select the file, and select\nOpen\n.",
+      "page_number": 29,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set a timestamp server as the default",
+      "context": "Set a timestamp server as the default\nTo be able to use a timestamp server to timestamp signatures, set it as the default server.\n1.\nOpen the\nPreferences\ndialog box.\n2.\nUnder",
+      "page_number": 30,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Document Timestamping",
+      "context": "Document Timestamping\n, click\nMore\n.\n4.\nSelect",
+      "page_number": 30,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Time Stamp Servers",
+      "context": "Time Stamp Servers\non the left.\n5.\nSelect the timestamp server, and click the",
+      "page_number": 30,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set Default",
+      "context": "Set Default\nbutton\n.\n6.\nSelect\nOK\nto confirm your selection.",
+      "page_number": 30,
+      "section_type": "heading_section"
+    }
+  ]
+}

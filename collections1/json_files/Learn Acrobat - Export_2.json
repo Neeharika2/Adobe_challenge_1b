@@ -1,0 +1,76 @@
+{
+  "document_info": {
+    "filename": "Learn Acrobat - Export_2.pdf",
+    "title": "Learn Acrobat - Export_2",
+    "extraction_timestamp": "2025-07-28T13:24:02.949565",
+    "total_sections": 11
+  },
+  "sections": [
+    {
+      "title": "Copy images",
+      "context": "Copy images\nUse the Select tool to copy and paste individual images from a PDF to the clipboard, another\napplication, or a file.\nOpen the Preferences dialog box if you cannot select an image because of overlapping text.\nSelect\nAcrobat\nin the upper-left (macOS) or Menu in the upper-left (Windows), then\nselect\nPreferences\n. Under",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Categories",
+      "context": "Categories\n, Select\nGeneral\n. Then select the",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Make Select tool select",
+      "context": "Make Select tool select",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "images before text",
+      "context": "images before text\n.\n1.\nUsing the Select tool\n, do one of the following:\n*\nTo select the entire image, select the image or drag a rectangle around it.\n*\nTo select a portion of an image, hold the pointer over the image until the cross-\nhair icon\nappears, and then drag a rectangle around the portion.\nNote:\nTo deselect an image and start over, click outside it.\n2.\nRight-click the image and select copy. Once done, you can paste it to a new file or a\nclipboard.",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Export objects to separate PDF",
+      "context": "Export objects to separate PDF\nUsing the",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Edit Object",
+      "context": "Edit Object\ntool, you can save objects into a separate PDF.\n1.\nSelect",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Use print production",
+      "context": "Use print production\n>",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Edit object",
+      "context": "Edit object\n.\n2.\nSelect the object or objects.\n3.\nRight-click the selection, and choose",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save Selection As",
+      "context": "Save Selection As\n.\n4.\nIn the\nSave As\ndialog, specify where you want to save the file, name the file, and then\nselect\nSave\n.",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Take a snapshot of a page",
+      "context": "Take a snapshot of a page\nYou can use the Snapshot tool to copy all selected content (text, images, or both) to the\nclipboard or another application. Text and images are copied as an image.\nYou can use two methods to take a snapshot: the Select or Snapshot tools. Using the Select\ntool\n, draw a rectangle, right-click, and select",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Take a Snapshot",
+      "context": "Take a Snapshot\n.\nTo use the Snapshot tool, do the following:\n1.\n(Windows) Select the hamburger menu\nin the upper left. Then select Undo, Redo &\nmore.\n(macOS) Select Edit in the upper left. Then select Undo, Redo and More\n2.\nDo one of the following:\n*\nSelect anywhere on the page to capture the entire content displayed on the\nscreen.\n*\nDrag a rectangle around the text or images or a combination of both.\n*\nDrag a rectangle within an image to copy just a portion of the image.\nColors in the selected area are inverted momentarily to highlight the selection.\nThe selection is copied automatically to the clipboard when you release the\nmouse/touchpad button. If a document is open in another application, go to\nthe document, right-click, and select\nPaste\nto paste the copied selection\ndirectly into the target document.\nNote:\nYou can save all the images from a PDF. See\nExport images to another format\n. This\nfeature isn't available in Reader.",
+      "page_number": 3,
+      "section_type": "heading_section"
+    }
+  ]
+}

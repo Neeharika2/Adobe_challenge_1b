@@ -1,0 +1,250 @@
+{
+  "document_info": {
+    "filename": "Learn Acrobat - Edit_1.pdf",
+    "title": "Learn Acrobat - Edit_1",
+    "extraction_timestamp": "2025-07-28T13:24:01.993251",
+    "total_sections": 40
+  },
+  "sections": [
+    {
+      "title": "Edit text in a PDF",
+      "context": "Edit text in a PDF\nOpen the PDF you want to edit in Acrobat, and then select\nEdit\nin the global bar.\nThe PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a\nscanned document, Acrobat automatically runs OCR to make the text and images editable.\nThe Edit panel includes options to modify the page, add content, redact a PDF, and convert\nvarious documents to PDF forms. You can use the options in the Edit panel to replace, edit, or\nadd text to a PDF. You can correct typos, change fonts and typeface size, adjust alignment,\nadd superscripts or subscripts, and resize text or paragraphs.",
+      "page_number": 2,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Set the default font for adding and editing text",
+      "context": "Set the default font for adding and editing text\nWhen you add text in a PDF, by default Acrobat chooses nearby font attributes for the new\ntext. When you edit text, any font that isn't available on the system is substituted by a default\nfall-back font for the particular script. For example,\nMinion Pro\nis the default fall-back font for\nRoman script fonts. The substitution of unavailable fonts by default fonts can introduce\ninconsistency in the look and feel of text in a PDF document. To avoid inconsistency, choose a\nspecific font for any text that is added or modified in the PDF document from Font\nOptions under Content Editing.\n1.\nFrom the hamburger menu\n(Windows) or the Acrobat menu (macOS),\nchoose\nPreferences\n. The Preferences dialog box is displayed.\n(Alternatively, you can press\nCtrl+K\nkeys on Windows(r) or",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Command+K",
+      "context": "Command+K\nkeys on\nmacOS.)\n2.\nIn the dialog box, select",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Content Editing",
+      "context": "Content Editing\nunder Categories to display Font Options.\n3.\nSelect an appropriate font in the drop-down lists:\n1.\nFallback font for Editing.\n2.\nDefault font for Add Text and Font Size.\n4.\nSelect OK to save the changes and close the Preferences dialog box.",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Change, replace, or delete text",
+      "context": "Change, replace, or delete text\nWhen you edit text, the text in the paragraph reflows within its text box to accommodate the\nchanges. Each text box is independent, and inserting text in one text block doesn't push down\nan adjacent text box or reflow to the next page.\n1.\nSelect\nEdit\nin the global bar.\n2.\nSelect the text that you want to edit. The text-box turns blue upon selection, and a\nrotation handle appears at the top of the selected text-box.\n3.\nEdit the text by doing one of the following:\n1.\nType new text to replace the selected text, or press Delete to remove it.\n2.\nTo rotate the text box, use the rotation handle at the top of the selected text\nbox.\n3.\nManage list items using the list controls (bulleted and numbered) in the left\nFormat panel. You can create lists and, conversely, convert a list item to a\nparagraph or change list types.\n4.\nSelect a font, font size, or other formatting options in the left Format panel. You\ncan also try the advanced format options, such as line spacing, character\nspacing, horizontal scaling, stroke width, and color.",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Format text",
+      "context": "Format text\n1.\nSelect\nEdit\nin the global bar.\n2.\nSelect the text that you want to change.\n3.\nIn the\nFormat\nText\nsection on the left panel, select a font, font size, bold, or other\nformatting options. You can also try the advanced format options, such as line spacing,\ncharacter spacing, horizontal scaling, stroke width, and color.",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Underline",
+      "context": "Underline\n: Underlines the text.\n*",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Superscript",
+      "context": "Superscript\n: Converts the selected text into superscript.\n*",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Subscript",
+      "context": "Subscript\n: Converts the sleected text into subscript.\n4.\nSelect outside the selection to deselect it and start over.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add new text",
+      "context": "Add new text\nYou can add or insert new text into a PDF using any of the fonts installed on the system.\n1.\nSelect\nEdit\nin the global bar. Then, from the Edit panel, select\nText\nunder\nAdd\nContent\n.\n2.\nDrag to define the width of the text block that you want to add.\n3.\nThe Add text tool intelligently detects the following text properties of text close to the\npoint of click:\n*\nFont name, size, and color",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Move, rotate, or resize a text box",
+      "context": "Move, rotate, or resize a text box\nYou can move or rotate text boxes on a page. The\nEdit\ntool outlines each text box, so it's clear\nwhat text is affected. Edits are confined to the page. You can't drag a text block to another\npage, or move or rotate individual characters or words within a text box. However, you can\ncopy text boxes and paste them on another page.\nResizing a text box causes the text to reflow within the new text box boundaries. It doesn't\nchange the size of the text. As with other text edits, resizing is limited to the current page. Text\ndoesn't flow to the next page.\n1.\nSelect\nEdit\nin the global bar. Then, from the Edit panel, select\nText\nunder\nAdd\nContent\n.\n2.\nSelect the text box that you want to move, rotate, or resize.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Rotation",
+      "context": "Rotation\npointer\n, drag in the direction you\nwant it to rotate.\n3.\nResize\n: Place the pointer over any of the circular selection handles, and drag",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add or edit lists",
+      "context": "Add or edit lists\nYou can add items to a numbered or bulleted list, create list items, convert a paragraph to a\nlist item, and conversely. You can also change list types.\n1.\nSelect\nEdit\nin the global bar. Then, from the Edit panel, select\nText\nunder\nAdd\nContent\n.\n2.\nTo add or remove items from a numbered or bulleted list:\n*\nNote: You can add or remove items to the list at all nested levels using the\nsame familiar controls that you use in Microsoft(r) Office. For example,\npress\nEnter\nat the end of a list item to insert a new row. Press",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Backspace",
+      "context": "Backspace\nto\nremove the new row and position the cursor back to the end of the previous\nlist item.\nTo create a numbered or bulleted list:\n1.\nPlace the cursor in the document at the location where you want to add a list.\n2.\nChoose the appropriate list type under",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Format Text",
+      "context": "Format Text\n.\nTo convert an existing paragraph to a list item:\n*\nPlace the cursor in the paragraph, and then choose the appropriate list type\nunder",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Format Text",
+      "context": "Format Text\n.\nTo convert an existing list item to a paragraph:\n1.\nSelect all items in the list. The appropriate list type is highlighted under",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Format Text",
+      "context": "Format Text\n.\n2.\nClick the highlighted list type.\nTo convert from one list type to another:\n1.\nPlace the cursor in the list item or select all items.\n2.\nChoose the appropriate list type under",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Change font color",
+      "context": "Change font color\n1.\nSelect\nEdit\nin the global bar.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "For Windows",
+      "context": "For Windows\n: You see a color panel for Windows to choose the color you want. Select\nthe color you want your text to change into.\nFor macOS:\nYou see a Color dialog box with options to change the font color. You can\nselect the color you want and then close the dialog box to change the font color.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Change font",
+      "context": "Change font\n1.\nSelect\nEdit\nin the global bar. Then, from the Edit panel, select\nText\nunder\nAdd\nContent\n.\n2.\nSelect the text that you want to change.\n3.\nIn the\nFormat\nText\nsection on the Edit panel, from the Font drop-down menu, select\nthe Font you want for the selected text.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Change font size",
+      "context": "Change font size\n1.\nSelect\nEdit\nin the global bar. Then, from the Edit panel, select\nText\nunder\nAdd\nContent\n.\n2.\nSelect the text that you want to change.\n3.\nIn the\nFormat\nText\nsection on the Edit panel, from the Font size menu, select the font\nsize you want for the selected text.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Redo text in Acrobat",
+      "context": "Redo text in Acrobat\n1.\nOpen the PDF in which you want to redo the text.\n2.\n(Windows) Select the hamburger menu in the upper left. Then select\nUndo, Redo &\nmore\n>\nRedo\n.\n(macOS) Select Edit in the upper left. Then select\nUndo, Redo and More > Redo\n.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Undo text in Acrobat",
+      "context": "Undo text in Acrobat\n1.\nOpen the PDF in which you want to redo the text.\n2.\n(Windows) Select the hamburger menu in the upper left. Then select\nUndo, Redo &\nmore\n>\nUndo\n.\n(macOS) Select Edit in the upper left. Then select\nUndo, Redo and More > Undo\n.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Change paragraph spacing",
+      "context": "Change paragraph spacing",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Paragraph spacing after",
+      "context": "Paragraph spacing after\ndrop-down menu and\nthen select the value to adjust spacing as needed.",
+      "page_number": 12,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Edit images or objects in a PDF",
+      "context": "Edit images or objects in a PDF",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "About editing text and images",
+      "context": "About editing text and images\nAdobe Acrobat provides powerful tools and capabilities for editing PDF images and text.\nYou might encounter formatting challenges that require manual adjustments. Acrobat's\nimage-editing capabilities are limited, and using high-resolution images can lead to\nperformance issues due to larger file sizes. To address this, improve images using other tools\nbefore adding them to PDF documents.\nIf the original font isn't available, font substitutions may occur, altering the text's appearance.\nTo maintain consistency across devices, we suggest you use the available fonts or embed\nthem within the PDF.\nYou can also enhance document accessibility using Acrobat's features, such as adding\nalternative text for images and proper content tagging.\nRefer to the following topics to learn how to add, resize, move, or replace images and objects\nin a PDF using Acrobat.",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add images in a PDF",
+      "context": "Add images in a PDF\n1.\nOpen the PDF in Acrobat. Select",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "All tools",
+      "context": "All tools\nmenu and then\nselect\nImage\n.\n2.\nFrom the drop-down menu, select",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Choose image",
+      "context": "Choose image\nto select an image from your device\nor Select",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Generate image",
+      "context": "Generate image\nto generate an image from text.\nNote:\nTo learn how to generate images from text, go to\nGenerate unique AI images from text\n.",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Modify images in a PDF",
+      "context": "Modify images in a PDF\nTo modify images in a PDF, select\nEdit\nfrom the global bar. Select the image you want to\nmodify, then from the\nEdit\npanel, under",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Adjust Objects",
+      "context": "Adjust Objects\n,\nselect one of the following tools:\n*\nFlip Vertical: Flips the image vertically, on the horizontal axis.\n*\nFlip Horizontal: Flips the image horizontally, on the vertical axis.\n*\nRotate left: Rotates the selected image 90deg in the counterclockwise direction.\n*\nRotate right: Rotates the selected image 90deg in the clockwise direction.\n*\nCrop image: Crops or clips the selected image. Drag a selection handle to\ncrop the image\n.\n*\nReplace image: From the drop-down menu, select\nChoose image\nto select an image\nfrom your device or Select\nGenerate image\nto an image from text.\n*\nAlign objects: To align multiple objects on a side - left, vertical center, right, top,\nhorizontal, center, and bottom.\nWhen you align objects relative to each other by their edges, one of the objects remains\nstationary. For example, the left option aligns the left edges of the selected objects with the\nleftmost object.\n*\nArrange objects: To move an image or object in front of or behind other elements. You\ncan push an item forward or back on just one level. Alternatively, you can send it to the front\nor back of the stacking order of elements on the page.\nNote:\nPlace the pointer just outside a selection handle to rotate the selected image manually. When the\ncursor changes to the rotation pointer\n, drag in the direction you want it to turn.",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Delete images from a PDF",
+      "context": "Delete images from a PDF\n1.\nOpen the PDF document in Adobe Acrobat. Select\nEdit\nfrom the global bar.\n2.\nSelect the image you want to delete, and a contextual menu opens. Select\nDelete\nfrom the contextual menu.\nAlternatively, you can also select the image and press\nDelete\n.",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add Objects to PDF",
+      "context": "Add Objects to PDF\n1.\nOpen a PDF, and then from the\nAll tools\nmenu, select",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Edit a PDF",
+      "context": "Edit a PDF\n.\n.From the left panel, select\nMore\nfrom under\nAdd Content\nto expand the menu and\nselect a desired tool.\n2.\nTo add a button:\n1.\nFrom the left menu, select\nButton\n.\n2.\nOnce the button coordinates appear, move the mouse to a desired location\nand place the button.\n3.\nIn the dialog that appears, provide a name to the button.\n4.\nTo change the properties of the button, double-click the button and then select\nin the dialog that appears, set the properties as desired.\n3.\nTo add a video:",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "3D Media",
+      "context": "3D Media\n.\n2.\nOnce the button coordinates appear, move the mouse to a desired location\nand place the button.\n3.\nIn the dialog that appears, browse and select the file.\n4.\nSelect\nOk\n.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Edit an image outside Acrobat",
+      "context": "Edit an image outside Acrobat\nYou can edit an image or graphic using another application, such as Photoshop, Illustrator, or\nMicrosoft(r) Paint. When you save the image or graphic, Acrobat automatically updates the PDF\nwith the changes. The applications that appear in the",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Edit using",
+      "context": "Edit using\nmenu depend upon what\nyou've installed and the type of image or graphic you've selected. Optionally, you can specify\nthe application you want to use.\n1.\nOpen the PDF in Acrobat, choose\nEdit\n, and then select the image or object.\nNote:\nSelect multiple items if you want to edit them together in the same file. To edit all the\nimages and objects on the page, choose",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Select All",
+      "context": "Select All\nfrom the context menu.\n2.\nUnder\nAdjust Objects\nin the Edit panel, select\nEdit using\n, and then choose an editor.\nTo choose a different editor than offered on the menu, select\nOpen with\n, find the app, and the app\nand select\nOpen\n.\nNote:\nIf a message asks whether to convert to ICC profiles, choose\nDon't Convert\n. If the image\nwindow displays a checkerboard pattern when it opens, the image data couldn't be read.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    }
+  ]
+}

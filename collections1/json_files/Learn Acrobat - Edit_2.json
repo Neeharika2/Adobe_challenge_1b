@@ -1,0 +1,562 @@
+{
+  "document_info": {
+    "filename": "Learn Acrobat - Edit_2.pdf",
+    "title": "Learn Acrobat - Edit_2",
+    "extraction_timestamp": "2025-07-28T13:24:02.358579",
+    "total_sections": 92
+  },
+  "sections": [
+    {
+      "title": "Export PDF images to another format",
+      "context": "Export PDF images to another format\nYou can save every page (all text, images, and vector objects on a page) to an image format.\nChoose\nConvert\n>",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Image format",
+      "context": "Image format\n> [Image Type]. You can also export each\nimage in a PDF to a separate image file.",
+      "page_number": 1,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Rotate, move, delete, extract, or renumber",
+      "context": "Rotate, move, delete, extract, or renumber",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Rotate pages in a PDF",
+      "context": "Rotate pages in a PDF\nYou can rotate all or select pages in a document. Rotation is based on 90-degree increments.\nYou can rotate pages using the rotate tools in the",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Page Thumbnails",
+      "context": "Page Thumbnails\npane or\nthe\nRotate\noption.\n1.\nOpen the PDF in Acrobat, choose",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages.",
+      "context": "Organize pages.\n2.\nFrom the left pane, specify the page range on which you want to apply the rotation.\nSelect the drop-down menu under",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PAGES SELECTED",
+      "context": "PAGES SELECTED\n, then select the appropriate\noption. Alternatively, you can enter the page number you want to operate on.\n3.\nAfter specifying the page range, for Direction, select either Rotate page left for\ncounterclockwise 90deg rotation\nor Rotate page rightdeg for clockwise 90deg rotation\n.\n4.\nYou can also apply the page rotation on a specific page by selecting the buttons in the\nright pane.\nNote:\nTo temporarily change your view of the page, from the hamburger menu\n(Windows)\nor the\nView\nmenu (macOS), choose\nView\n>",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Rotate view",
+      "context": "Rotate view\nleft\n. The original page orientation is restored the next time you open the PDF.",
+      "page_number": 3,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Extract pages from a PDF",
+      "context": "Extract pages from a PDF\nExtraction\nis reusing selected pages of one PDF in a different PDF. Extracted pages include the\ncontent and the form fields, comments, and links of the original document.\nYou can leave the extracted pages in the original document or remove them during\nextraction.\nNote:\nAny bookmarks or article threadings associated with pages aren't extracted.\n1.\nOpen the PDF in Acrobat. From the upper left, select",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages.",
+      "context": "Organize pages.\n2.\nSpecify the page range or the pages you want to extract. Select the drop-down menu\nunder",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PAGES SELECTED",
+      "context": "PAGES SELECTED\n, then select the appropriate option. Alternatively, you can\nenter the page number you want to operate on.\n3.\nSelect",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PAGE OPTIONS",
+      "context": "PAGE OPTIONS\n.\n4.\nIn the dialog, select one or more of the following before you select\nExtract\n:\n*\nTo remove the extracted pages from the original document, select\nDelete",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "pages after extracting",
+      "context": "pages after extracting\n.\n*\nTo create a single-page PDF for each extracted page, select",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "separate files",
+      "context": "separate files\n.\n*\nTo keep the original pages intact and create a single PDF for the extracted\npages, deselect both options.\nThe extracted pages are placed in a new document.\nNote:\nThe creator of a PDF document can set the security to prevent the extraction of pages.\nTo view the security settings for a document, choose",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Document properties",
+      "context": "Document properties\nfrom the\nhamburger menu\n(Windows) or\nFile\nmenu in macOS and then select the",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Security",
+      "context": "Security\ntab in\nthe dialog.",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Extract random pages from a PDF",
+      "context": "Extract random pages from a PDF\nYou can also select and extract discontinuous pages from the page thumbnails in the right\nnavigation pane of Acrobat.\n1.\nOpen the PDF in Acrobat. From the upper left, select",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages.",
+      "context": "Organize pages.\n2.\nSpecify the pages which you want to extract separated with a comma. For example, if\nyou want to extract pages 3 and 5, enter 3, 5 in the pages field under PAGES",
+      "page_number": 4,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PAGE OPTIONS",
+      "context": "PAGE OPTIONS\n.\n3.\nIn the dialog, select one or more of the following before you select\nExtract\n:\n*\nTo remove the extracted pages from the original document, select\nDelete",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "pages after extracting",
+      "context": "pages after extracting\n.\n*\nTo create a single-page PDF for each extracted page, select",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "separate files",
+      "context": "separate files\n.\n*\nTo keep the original pages intact and create a single PDF for the extracted\npages, deselect both options.\nThe extracted pages are placed in a new document.",
+      "page_number": 5,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Split PDFs into multiple documents",
+      "context": "Split PDFs into multiple documents\nYou can split one or more PDFs into multiple smaller PDFs. When splitting a PDF, you can\nspecify the split by the maximum number of pages, maximum file size, or top-level\nbookmarks.\n1.\nOpen the PDF in Acrobat. From the upper left, select",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages.",
+      "context": "Organize pages.\n2.\nIn the left pane, under",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PAGE OPTIONS",
+      "context": "PAGE OPTIONS\n, select\nSplit.\nA command dialog appears for\nthe Split operation.\n3.\nIn the",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Split By",
+      "context": "Split By\nlist, select the criteria for dividing the document:",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Number of pages",
+      "context": "Number of pages\nSpecify the maximum number of pages for each document in the split.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "File Size",
+      "context": "File Size\nSpecify the maximum file size for each document in the split.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Top-level Bookmarks",
+      "context": "Top-level Bookmarks\nIf the document includes bookmarks, it creates one document for every top-level\nbookmark.\n4.\nTo specify a target folder for the split files and filename preferences, select\nOutput\nOptions\n. Specify the options as needed, and then select\nOK\n.\n5.\nSelect\nSplit\n.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Split multiple PDFs",
+      "context": "Split multiple PDFs\n1.\nOpen the PDF in Acrobat. From the upper left, select",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages.",
+      "context": "Organize pages.\n2.\nIn the left pane, under",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PAGE OPTIONS",
+      "context": "PAGE OPTIONS\n, select\nSplit.\nA command dialog appears for\nthe Split operation.\n3.\nIn the",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Split by",
+      "context": "Split by\nlist, select the criteria for dividing the document:",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Number of pages",
+      "context": "Number of pages\nSpecify the maximum number of pages for each document in the split.",
+      "page_number": 6,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "File Size",
+      "context": "File Size\nSpecify the maximum file size for each document in the split.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Top-level Bookmarks",
+      "context": "Top-level Bookmarks\nIf the document includes bookmarks, it creates one document for every top-level\nbookmark.\n4.\nTo specify a target folder for the split files and filename preferences, select\nOutput\nOptions\n. Specify the options as needed, and then select\nOK\n.\n5.\nSelect",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Split multiple files",
+      "context": "Split multiple files\n. Select",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add Files",
+      "context": "Add Files\n, and choose\nAdd Files, Add Folders\n,\nor",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Add Open Files",
+      "context": "Add Open Files\n. Select the files or folder, and then select\nOK\n. Select\nSplit\n.",
+      "page_number": 7,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Move or copy pages in a PDF",
+      "context": "Move or copy pages in a PDF\nTo copy or move pages within a document, use the page thumbnails in the right navigation\npane or the document area. You can also transfer pages between documents using these\nthumbnails. In the Organize Pages view, drag and drop thumbnails to rearrange pages, or\nselect a thumbnail and copy it as needed.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Move or copy a page",
+      "context": "Move or copy a page\n1.\nOpen the PDF in Acrobat, and select",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages",
+      "context": "Organize pages\n.\nThe page thumbnails\nare displayed in the Document area.\n2.\nSelect one or more page thumbnails.\n3.\nDo one of the following:\n*\nTo move a page, drag the corresponding page thumbnail to the new location.\nA bar will appear to show the new position of the page thumbnail. The pages\nwill be renumbered.\n*\nTo cut or copy a page, select the page, and then select the ellipsis icon\nin the\ncontext menu bar displayed next to it. Select\nCut\nor\nCopy\nfrom the context\nmenu. Select between the page thumbnails where you want to paste the page.\nA blue horizontal marker shows the selected location where you want to paste.\nSelect\nPaste\nfrom the context menu. You can paste the pages in another PDF as\nwell.\nNote:\nYou can also move or copy pages by selecting the Page Thumbnails\nbutton from\nthe right pane.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Copy a page between two PDFs",
+      "context": "Copy a page between two PDFs\n1.\nOpen both PDFs and display them alongside each other.\nTo display the PDFs side by side, select\nWindow\nfrom the hamburger\nmenu\n(Windows) or the\nWindow\nmenu (macOS). Then select\nTile\n>",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Vertically",
+      "context": "Vertically\n.\n2.\nSelect",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages",
+      "context": "Organize pages\n.\nThe page thumbnails are displayed in the\nDocument area.\n3.\nSelect the page thumbnail of the page you want to cut or copy. To select multiple\npages, press Ctrl (Windows) or command (macOS) and then select the pages. From\nthe page thumbnail context menu, select\nCopy\n.",
+      "page_number": 8,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Page Thumbnails",
+      "context": "Page Thumbnails\npanel of the target PDF.",
+      "page_number": 9,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Delete or replace pages in a PDF",
+      "context": "Delete or replace pages in a PDF\nYou can replace an entire PDF page with another PDF page. Only the text and images on the\noriginal page are replaced. Any interactive elements associated with the original page, such as\nlinks and bookmarks, aren't affected. Likewise, bookmarks and links that may have been\npreviously associated with the replacement page don't carry over. Comments, however, are\ncarried over and are combined with any existing comments in the document.\nAfter you delete or replace pages, it's a good idea to use the",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Reduce File Size",
+      "context": "Reduce File Size\ncommand to\nrename and save the restructured document to the smallest possible file size.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Delete multiple pages in a PDF",
+      "context": "Delete multiple pages in a PDF\nNote:\nYou can't undo the\nDelete\ncommand.\n1.\nSelect",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages",
+      "context": "Organize pages\n. The page thumbnails are displayed in the\nDocument area.\n2.\nSpecify the page thumbnail of the pages you want to delete and separate them with a\ncomma. For example, if you want to delete pages 3 and 5, enter 3, 5 in the pages field\nunder",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "PAGES SELECTED",
+      "context": "PAGES SELECTED\n.  You can also choose from the options given in the drop-\ndown menu.\n3.\nIn the left pane, select",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Delete pages",
+      "context": "Delete pages\n, and the select\nOK\nto confirm.",
+      "page_number": 10,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Use Logical Page Numbers",
+      "context": "Use Logical Page Numbers\nin the",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Page Display",
+      "context": "Page Display\npanel of\nthe\nPreferences\ndialog box, you can enter a page number in parentheses to delete the\ncorresponding page. For example, if the first page in the document is numbered i, you can\nenter (1) in the Enter Page Range list, and the page is deleted.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Delete a page in a PDF",
+      "context": "Delete a page in a PDF\n1.\nSelect",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages",
+      "context": "Organize pages\n.\nThe page thumbnails are displayed in the\nDocument area.\n2.\nSelect a page thumbnail of the page you want to delete. Then, select Delete\npages\nfrom the contextual toolbar that appears next to the selected page\nthumbnail.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Replace pages in a PDF",
+      "context": "Replace pages in a PDF\n1.\nOpen the PDF that contains the pages you want to replace.\n2.\nSelect",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages",
+      "context": "Organize pages\n.\nThe page thumbnails are displayed in the\nDocument area.\n3.\nIn the left tools pane, select\nReplace\n. The file explorer window appears.\n4.\nSelect the document containing the replacement pages.\n5.\nIn the",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Replace Pages",
+      "context": "Replace Pages\ndialog box, under",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Original",
+      "context": "Original\n, enter the pages to be replaced in the\noriginal document.\n6.\nIn the",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Replace Pages",
+      "context": "Replace Pages\ndialog box, under",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Replacement",
+      "context": "Replacement\n, enter the first page of the\nreplacement page range. The last page is calculated based on the number of pages to\nbe replaced in the original document.\n7.\nSelect\nOK\n.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Replace pages between multiple PDFs",
+      "context": "Replace pages between multiple PDFs\n1.\nOpen the PDF that contains the pages you want to replace, and then open the PDF\nthat contains the replacement pages.\n2.\nSelect",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages",
+      "context": "Organize pages\nfor both PDFs.\nThe page thumbnails are displayed in\nthe Document area.",
+      "page_number": 11,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Renumber pages in a PDF",
+      "context": "Renumber pages in a PDF\nThe page numbers on the document pages don't always match the page numbers that appear\nbelow the page thumbnails and in the right",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Page Navigation",
+      "context": "Page Navigation\ntoolbar. Pages are numbered\nwith integers, starting with page 1 for the first page of the document. Because some PDFs may\ncontain front matter, such as a copyright page and table of contents, their body pages may\nnot follow the numbering shown in the right",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Page Navigation",
+      "context": "Page Navigation\ntoolbar.\nYou can specify various numbering styles for a group of pages, for example, 1, 2, 3, or i, ii, iii, or\na, b, c. You can also customize the numbering system by adding a prefix. For example, pages\nin Chapter 1 can be 1-1, 1-2, 1-3, and so on. Chapter 2 can have pages numbered as 2-1, 2-2, 2-3,\nand so on.\nNote:\nUsing the",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Number Pages",
+      "context": "Number Pages\ncommand affects only the page thumbnails on\nthe\nPages\npanel. You can physically add new page numbers to a PDF using the headers and\nfooters feature.\n1.\nSelect",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "All tools",
+      "context": "All tools\nfrom the global bar. Then select",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Organize pages > Page labels.",
+      "context": "Organize pages > Page labels.\n2.\nSpecify a page range. (",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Selected",
+      "context": "Selected\nimplies pages selected in the",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Page Thumbnails",
+      "context": "Page Thumbnails\npanel.)\n3.\nSelect one of the following, and then select\nOK\n:",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Begin New Section",
+      "context": "Begin New Section\n: Starts a new numbering sequence. Choose a style from the pop-up\nmenu, and enter a starting page number for the section. Specify a\nPrefix\n, if desired.",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Extend Numbering Used In Preceding Section To Selected Pages",
+      "context": "Extend Numbering Used In Preceding Section To Selected Pages\n: Continues the numbering\nsequence from previous pages without interruption.",
+      "page_number": 13,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Edit Scanned PDFs",
+      "context": "Edit Scanned PDFs\nEditing a scanned PDF can be complicated if it includes low-quality text or images, non-\neditable text, line breaks, or complex formatting. Other inhibiting factors include compatibility\nissues, security restrictions, and large file sizes, which are more prevalent in PDFs created from\nscanned images.\nTo streamline the process, consider the following best practices and guidelines before editing\na scanned document:\nCheck the accuracy of optical character recognition (OCR) output\n. When you open a\nscanned document, Acrobat\nautomatically runs OCR\nin the background to make the\ndocument editable. Before editing, review the document to ensure that the content is\naccurate and complete. If necessary, rescan the document using the",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Recognize",
+      "context": "Recognize\nText\ntool to improve the output.",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enhance image quality",
+      "context": "Enhance image quality\n. If the scanned PDF contains low-quality images, use the\nEnhance",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enhance camera image",
+      "context": "Enhance camera image\nfeature to improve the quality of images before\nattempting to edit the document. For more information, see\nScan documents to PDF\n.",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Use the correct font and formatting",
+      "context": "Use the correct font and formatting\n. When editing the document, ensure that the font and\nformatting of the edited text match the original document as closely as possible. If you don't\nhave the desired fonts on your computer, see\nAdd fonts to your computer\n.",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Remove security restrictions",
+      "context": "Remove security restrictions\n. If the scanned PDF has security restrictions that prevent editing,\nremove these restrictions before attempting to edit the document. To know how to remove\nsecurity from a PDF, see\nUnlock a PDF\n.",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Avoid editing complex elements",
+      "context": "Avoid editing complex elements\n. If the scanned PDF contains tables, graphs, or images,\navoid unnecessary edits that could alter the layout or formatting of these elements.",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Check for compatibility issues",
+      "context": "Check for compatibility issues\n. Ensure that the version of Adobe Acrobat you're using is\ncompatible with the scanned PDF. If you encounter compatibility issues, try updating Adobe\nAcrobat. For more information, see\nSystem requirements\n.",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Save a backup copy",
+      "context": "Save a backup copy\n. Always save a backup copy of the original scanned PDF before making\nany edits. Revert to the original document if any issues arise during the editing process.",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Recognize text on scanned PDF",
+      "context": "Recognize text on scanned PDF\nYou can use the Scan & OCR tool to recognize text, change OCR language, and make all\npages editable in one go. To do so:",
+      "page_number": 14,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "In this file",
+      "context": "In this file\n.\n3.\nIn the dialog that opens, select the pages that you want to apply text\nrecognition for and the language.\n4.\nSelect",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Edit a scanned document",
+      "context": "Edit a scanned document\n1.\nOpen the scanned PDF file in Acrobat.\n2.\nFrom the global bar in the upper left, select\nEdit\n.\n3.\nSelect the text element that you want to edit and start typing. The new text matches\nthe original font in your scanned PDF.\n4.\nFrom the upper-left corner, select the hamburger menu\n(Windows) or File\n(macOS)>\nSave as\nand enter a new name for your document.\nInitially, the language is set to the default locale, and the other options are disabled. Any\nchanges to these settings are persisted and are applied when you edit the document.",
+      "page_number": 15,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enhance scanned file or camera images for",
+      "context": "Enhance scanned file or camera images for",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "clear PDFs",
+      "context": "clear PDFs\nYou can capture document photos with your smartphone and use the",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enhance camera",
+      "context": "Enhance camera\nimage\nfeature to create polished, clear, and compact PDFs without needing a standard\nscanner. This feature addresses common issues in mobile-captured images, such as incorrect\nperspectives, areas beyond boundaries, shadows, and inconsistent lighting. While it may not\neliminate all problems, it significantly improves the overall quality of your resulting PDF.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enhance camera image",
+      "context": "Enhance camera image\n1.\nOpen the photograph or image of the document in Acrobat.\n2.\nFrom the",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "All tools",
+      "context": "All tools\nmenu, select",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Scan & OCR",
+      "context": "Scan & OCR\n.\n3.\nFrom the left panel, select",
+      "page_number": 16,
+      "section_type": "heading_section"
+    },
+    {
+      "title": "Enhance camera image",
+      "context": "Enhance camera image\nand then from the dialog that\nopens, select\nEnhance\n.\n4.\nThe image is enhanced and a PDF of the image is shown.\n5.\n(Optional) To further adjust the default enhancement level, drag the Adjust\nenhancement level slider in the secondary toolbar.",
+      "page_number": 16,
+      "section_type": "heading_section"
+    }
+  ]
+}
